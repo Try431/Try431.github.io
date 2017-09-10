@@ -4,7 +4,7 @@ var header_string =
     <div class="container">
       <div class="row">
         <div class="grid_12">
-          <h1><a href="#">Pictures & Stuff </a></h1>
+          <h1><a href="#">Ramblings of a Non-Quite Photographer </a></h1>
           Isaac Garza
         </div>
       </div>
@@ -19,16 +19,16 @@ var header_string =
         <div class="grid_12 ">
           <h1 class="logo">
             <a href="index.html">
-              Photo.Folio
+              Ramblings of a Non-Quite Photographer
             </a>
           </h1>
           <div class="navigation ">
             <nav>
               <ul class="sf-menu">
-               <li class="current"><a href="index.html">Home</a></li>
-               <li><a href="about.html">About</a></li>
-               <li><a href="gallery.html">Gallery</a></li>
-               <li><a href="blog.html">Blog</a></li>
+               <li><a href="/index.html">Home</a></li>
+<!--           <li><a href="/about.html">About</a></li>-->
+               <li><a href="/gallery.html">Gallery</a></li>
+               <li><a href="/blog.html">Blog</a></li>
 <!--               <li><a href="contacts.html">Contacts</a></li>-->
              </ul>
             </nav>
