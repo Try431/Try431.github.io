@@ -1,0 +1,413 @@
+html, body {
+    margin: 0;
+    overflow: hidden;
+    -webkit-transition: opacity 400ms;
+    -moz-transition: opacity 400ms;
+    transition: opacity 400ms;
+}
+
+body {
+    font-size: 100%; /* 16px */
+    background-color: gray;
+}
+
+body, html {
+    display: block;
+    position: static;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.container-fluid {
+    height: 100%;
+    width: 100%;
+}
+
+.wrapper {
+    height: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.centered-content {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+/*==================================
+=       Navigation Styles          =
+==================================*/
+
+.menu-button {
+    display: block;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    position: absolute;
+    top: 40px;
+    right: 50px;
+    z-index: 2000;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.menu-button-bar {
+    position: absolute;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: 50%;
+    width: 24px;
+    height: 1px;
+    margin-left: -12px;
+    margin-top: -1px;
+    background-color: white;
+}
+
+.menu-bar1 {
+    top: 13px;
+}
+
+.menu-bar2 {
+    top: 20px;
+}
+
+.menu-bar3 {
+    top: 27px;
+}
+
+.menu-bar1, .menu-bar2, .menu-bar3 {
+    transition: all 500ms ease-in-out;
+}
+
+.menu-bar.active {
+    background-color: transparent;
+}
+
+.menu-bar1.active, .menu-bar3.active {
+    top: 20px;
+}
+
+.menu-bar1.active {
+    transform: rotate(45deg);
+}
+
+.menu-bar2.active {
+    display: none;
+}
+
+.menu-bar3.active {
+    transform: rotate(-45deg);
+}
+
+.page1 {
+    background: url(../img/sunset_PCT.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+}
+
+#overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0);
+}
+
+#branding {
+    margin-top: 8%;
+    margin-left: 7%;
+    display: block;
+}
+
+#branding img {
+    display: block;
+    min-width: 70px;
+    width: 6.5%;
+    height: auto;
+    margin: 0 auto 5%;
+}
+
+#branding h1 {
+    font-family: "maisonneue", Helvetica, sans-serif;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: .4px;
+    margin-bottom: 20px;
+}
+
+#branding h2 {
+    font-family: "maisonneue", Helvetica, sans-serif;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 700;
+    letter-spacing: .5px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+#branding p {
+    font-family: "maisonneue", Helvetica, sans-serif;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 300;
+    letter-spacing: .5px;
+    margin-bottom: 20px;
+    width: 60%;
+}
+
+#branding a {
+    color: #ddfcff;
+    font-weight: 500;
+}
+
+#branding hr {
+    width: 20%;
+    height: 4px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 0;
+    margin-bottom: 0;
+}
+
+#branding .icons a:hover {
+    background-color: rgba(255, 255, 255, 0.54);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+#branding .icons a:active {
+    background-color: #a2a2a2;
+    color: #333333;
+    text-decoration: none;
+}
+
+#branding ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1.2em;
+    text-indent: -1.2em;
+}
+
+#branding li {
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 300;
+    letter-spacing: .5px;
+    width: 60%;
+}
+
+#branding li:before {
+    content: "-";
+    display: block;
+    float: left;
+    width: 1.2em;
+    color: #ffffff;
+}
+
+.nobr { white-space: nowrap }
+
+/*==================================
+=        Page Border Styles        =
+==================================*/
+
+#top, #bottom, #left, #right {
+    background: #fff;
+    position: fixed;
+    z-index: 999;
+}
+
+#left, #right {
+    top: 0;
+    bottom: 0;
+    width: 15px;
+}
+
+#left {
+    left: 0;
+}
+
+#right {
+    right: 0;
+}
+
+#top, #bottom {
+    left: 0;
+    right: 0;
+    height: 15px;
+}
+
+#top {
+    top: 0;
+}
+
+#bottom {
+    bottom: 0;
+}
+
+/*==============================
+=         Media Queries        =
+==============================*/
+
+@media only screen and (min-width: 400px) {
+    #branding h1 {
+        margin-top: 16%;
+        font-size: 24px;
+        font-weight: 400;
+        letter-spacing: .8px;
+        margin-bottom: 15px;
+        width: 95%;
+    }
+
+    #branding h2 {
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+
+    #branding p {
+        color: #fff;
+        font-size: 17px;
+        margin-bottom: 30px;
+        line-height: 1.2;
+        width: 95%;
+    }
+
+    #branding ul {
+        margin-bottom: 15px;
+    }
+
+    #branding li {
+        font-size: 17px;
+        line-height: 1.2;
+        width: 95%;
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    #branding h1 {
+        margin-top: 5%;
+        font-size: 38px;
+        font-weight: 400;
+        letter-spacing: .8px;
+        margin-bottom: 30px;
+        width: 90%;
+    }
+
+    #branding h2 {
+        font-size: 21px;
+        font-weight: 700;
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+
+    #branding p {
+        color: #fff;
+        font-size: 21px;
+        margin-bottom: 30px;
+        line-height: 1.4;
+        width: 90%;
+    }
+
+    #branding ul {
+        margin-bottom: 30px;
+    }
+
+    #branding li {
+        font-size: 21px;
+        width: 90%;
+    }
+}
+
+@media only screen and (min-width: 1100px) {
+    
+    #branding h1 {
+        margin-top: 0;
+        font-size: 38px;
+        font-weight: 400;
+        letter-spacing: .8px;
+        margin-bottom: 30px;
+        width: 65%;
+    }
+
+    #branding h2 {
+        font-size: 21px;
+        font-weight: 700;
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+
+    #branding p {
+        color: #fff;
+        font-size: 21px;
+        margin-bottom: 30px;
+        line-height: 1.4;
+        width: 65%;
+    }
+
+    #branding ul {
+        margin-bottom: 30px;
+    }
+
+    #branding li {
+        font-size: 21px;
+        width: 65%;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+
+    #branding h1 {
+        margin-top: 0;
+        font-size: 45px;
+        font-weight: 400;
+        letter-spacing: .8px;
+        margin-bottom: 30px;
+        width: 65%;
+    }
+
+    #branding h2 {
+        font-size: 25px;
+        font-weight: 700;
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+
+    #branding p {
+        color: #fff;
+        font-size: 25px;
+        margin-bottom: 30px;
+        width: 65%;
+    }
+    
+    #branding ul {
+        margin-bottom: 30px;
+    }
+
+    #branding li {
+        font-size: 25px;
+        width: 65%;
+    }
+
+}
+
+nav {
+    text-align: left;
+}
+
+.iconlet {
+    padding-top: 100px;
+    color: white;
+}

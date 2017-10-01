@@ -1,0 +1,8 @@
+---
+top: 30
+left: 27
+width: 50
+height: 20
+textcolor: #ffffff
+---
+After killing time for four hours, a soak in the iconic Blue Lagoon hotsprings is just what we needed.
