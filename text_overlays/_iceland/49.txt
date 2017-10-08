@@ -1,0 +1,8 @@
+---
+top:18
+left: 50
+width: 40
+height: 30
+textcolor: #392613
+---
+...but they were practically best friends by the end of the hour! :)

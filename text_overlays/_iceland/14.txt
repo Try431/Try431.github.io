@@ -1,0 +1,7 @@
+---
+top: 30
+left: 50
+width: 20
+height: 30
+---
+In the stairwell outside Pablo Discobar, where we consumed some refreshingly-cold adult beverages.

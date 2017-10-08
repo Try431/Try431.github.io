@@ -1,0 +1,7 @@
+---
+top: 90
+left: 55
+width: 30
+height: 10
+---
+Minnismerki Hallgríms Péturssonar, 1914-22 <br>(Monument to Hallgrímur Pétursson)

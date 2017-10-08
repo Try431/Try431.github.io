@@ -1,0 +1,8 @@
+---
+top: 42
+left: 80
+width: 19
+height: 30
+textcolor: #dbdbdb
+---
+The waterfall Gullfoss (Golden Falls). It's hard to convey just how loud and massive these falls are unless you see them in person.

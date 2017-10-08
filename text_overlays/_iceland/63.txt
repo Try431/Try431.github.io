@@ -1,0 +1,9 @@
+---
+top:22
+left: 50
+width: 30
+height: 20
+textcolor: #e5e6e6
+---
+Mountain dog!<br><br>
+...but actually, I have no idea where this dog came from.

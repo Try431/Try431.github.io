@@ -1,0 +1,9 @@
+---
+top: 80
+left: 45
+width: 45
+height: 30
+---
+Ymir, the Primodial Giant, sustained by the milk of the Primeval Cow, Auðhumla.<br><br>
+<p style="text-indent: 15em;">Ymir og Auðhumla, 1907-09</p>
+<p style="text-indent: 17em;">(Ymir and Auðhumla)</p>

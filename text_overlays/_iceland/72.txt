@@ -1,0 +1,8 @@
+---
+top:30
+left: 70
+width: 20
+height: 20
+textcolor: #575b5b
+---
+One last goodbye shot of Hallgrímskirkja before flying back to the States!

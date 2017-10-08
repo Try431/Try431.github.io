@@ -1,0 +1,8 @@
+---
+top:36
+left: 5
+width: 20
+height: 30
+textcolor: #392613
+---
+Wesley wasn't the <i>most</i> comfortable with his horse...

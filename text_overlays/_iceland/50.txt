@@ -1,0 +1,8 @@
+---
+top:48
+left: 70
+width: 28
+height: 30
+textcolor: #f0f0f5
+---
+A steep hill climb, plus a bit of vertical rock-climbing, and you're on the cliff next to the waterfall Seljalandsfoss. Many people climbed the hill, but pretty much nobody pushed to the very top... except us!

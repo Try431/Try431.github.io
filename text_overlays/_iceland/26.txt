@@ -1,0 +1,8 @@
+---
+top: 10
+left: 5
+width: 20
+height: 30
+textcolor: #a5aaa1
+---
+One of like two "traditional" Icelandic foods I ate on this trip. Iceland is surprisingly Westernized when it comes to cuisine.

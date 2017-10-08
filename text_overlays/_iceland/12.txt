@@ -1,0 +1,8 @@
+---
+top: 5
+left: 10
+width: 60
+height: 30
+textcolor: #000033
+---
+The main road heading to downtown Reykjavík. Notice how colorful the city is!

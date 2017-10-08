@@ -1,0 +1,9 @@
+---
+top: 5
+left: 30
+width: 40
+height: 20
+textcolor: #D7D0C1
+---
+&nbsp;&nbsp;&nbsp;Elli og Þór, 1939-40 <br>
+(Thor Wrestling with Age)
