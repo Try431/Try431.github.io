@@ -1,0 +1,15 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://idgarza.com/</loc>
+        <lastmod>2017-10-04</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://idgarza.com/iceland/</loc>
+        <lastmod>2017-10-04</lastmod>
+        <changefreq>never</changefreq>
+    </url>
+</urlset>
+<!--
+<guid value="b0213d83-3b59-4900-82d9-5a0d4ded623b" />
+-->
