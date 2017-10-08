@@ -1,0 +1,9 @@
+---
+top: 89
+left: 70
+width: 40
+height: 20
+textcolor: #D7D0C1
+---
+Sorg, 1926-27
+<p style="text-indent: 1em;">&nbsp;&nbsp;(Grief)</p>

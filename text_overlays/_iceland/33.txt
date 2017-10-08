@@ -1,0 +1,8 @@
+---
+top: 80
+left: 70
+width: 25
+height: 30
+textcolor: #dbdbdb
+---
+We were all soaking wet and incredibly cold in this picture, but we had a great time!

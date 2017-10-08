@@ -1,0 +1,8 @@
+---
+top: 40
+left: 38
+width: 30
+height: 20
+textcolor: #6d645b
+---
+On the way to Eldborg Crater, which is right below this text.

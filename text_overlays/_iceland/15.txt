@@ -1,0 +1,10 @@
+---
+top: 50
+left: 80
+width: 15
+height: 40
+textcolor: #D7D0C1
+---
+Back in the Einar Jónsson museum courtyard after a day spent exploring Reykjavík - this time, I wasn't rushed and could take pictures at my leisure.<br><br>
+<p style="text-indent: 5em;">Svefn, 1931-41</p>
+<p style="text-indent: 6em;">&nbsp;(Sleep)</p>

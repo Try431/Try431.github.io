@@ -1,0 +1,7 @@
+---
+top: 0
+left: 27
+width: 25
+height: 30
+---
+On our walking tour, we stopped by the Einar Jónsson museum in Reykjavík. There are <br>dozens of beautiful sculptures in the courtyard!

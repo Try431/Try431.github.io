@@ -1,0 +1,8 @@
+---
+top: 5
+left: 40
+width: 40
+height: 30
+textcolor: #000000
+---
+Seems that no matter where you are in Iceland, the horizon is either peppered with mountains or covered by the sea.<br><br>This is from the viewing area at the top of Hallgrímskirkja (don't ask me how to pronounce it...), the massive Lutheran church which dominates the sky around Reykjavík.

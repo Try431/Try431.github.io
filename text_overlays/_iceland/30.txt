@@ -1,0 +1,8 @@
+---
+top: 80
+left: 70
+width: 25
+height: 30
+textcolor: #dbdbdb
+---
+Hard to see, but this is the ravine Rauðfeldsgjá. There was quite a bit of snowmelt runoff, but we made it all the way to the waterfall at the back of the ravine! 

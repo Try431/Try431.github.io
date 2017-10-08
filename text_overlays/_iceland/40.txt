@@ -1,0 +1,8 @@
+---
+top: 20
+left: 32
+width: 30
+height: 30
+textcolor: #5c5c8a
+---
+One of the few regularly-erupting geysers in the world, Strokkur goes off every 6-10 minutes. Alas, I wasn't able to capture a <i>quality</i> video of it going off.
