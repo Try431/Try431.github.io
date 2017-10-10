@@ -1,8 +1,0 @@
----
-top: 20
-left: 60
-width: 35
-height: 30
-textcolor: #D7D0C1
----
-<h1 style="margin-bottom: -0.5em; margin-left: -0.1em">Simple Beautiful</h1><br>A small photography project during my hike focused on those things which, to my eye, were unostentatiously simple and beautiful.
