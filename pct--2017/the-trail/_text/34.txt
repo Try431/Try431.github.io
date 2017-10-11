@@ -1,0 +1,8 @@
+---
+top: 8
+left: 5
+width: 49
+height: 35
+textcolor: #00394d
+---
+Because there was still so much snow in Orgeon along the PCT, some hiker buddies and I decided to jump on over to the<h1 style="margin-top: -0.5em; margin-left: 0.3em">Oregon Coast Trail</h1><br><p style="margin-top: -2em; margin-left: 9em">southbound for a few weeks, and then jump back up to the PCT in Washington!</p>

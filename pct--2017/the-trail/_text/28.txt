@@ -1,0 +1,8 @@
+---
+top: 85
+left: 5
+width: 30
+height: 30
+textcolor: #d38611
+---
+This was the view from our campsite one night. It was sublimely beautiful - photos don't come close.

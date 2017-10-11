@@ -1,0 +1,8 @@
+---
+top: 47
+left: 58
+width: 30
+height: 35
+textcolor: #ccffcc
+---
+Just some elk hanging out.

@@ -1,0 +1,8 @@
+---
+top: 27
+left: 37
+width: 35
+height: 35
+textcolor: #f2e5d9
+---
+We stumbled upon a wedding about to start!

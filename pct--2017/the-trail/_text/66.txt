@@ -1,0 +1,8 @@
+---
+top: 40
+left: 55
+width: 30
+height: 35
+textcolor: #005266
+---
+Mt. Saint Helens - notice how the peak is blown off.
