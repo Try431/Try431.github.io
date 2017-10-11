@@ -1,0 +1,11 @@
+---
+top: 4
+left: 6
+width: 30
+height: 30
+textcolor: #00394d
+---
+View of Shasta in lovely Mount Shasta, CA. This crystal-laden hippie haven was gearing up for its Fourth of July celebrations.
+<br>
+<br>
+But seriously, crystals <b>everywhere</b>!! If you've been, you know what I'm talking about.

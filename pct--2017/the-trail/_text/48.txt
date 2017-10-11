@@ -1,0 +1,8 @@
+---
+top: 65
+left: 27
+width: 35
+height: 35
+textcolor: #e5e5e5
+---
+On a minus tide like this, people head out to dig for clams.

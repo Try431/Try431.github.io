@@ -1,0 +1,7 @@
+---
+top: 80
+left: 80
+width: 25
+height: 30
+---
+Yep, that's hail.

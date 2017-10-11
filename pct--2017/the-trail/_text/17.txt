@@ -1,0 +1,8 @@
+---
+top: 2
+left: 43
+width: 24
+height: 30
+textcolor: #000000
+---
+These burned sections are really quite beautiful, in a melancholic sort of way. 

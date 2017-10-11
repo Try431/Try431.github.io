@@ -7,12 +7,17 @@
     <url>
         <loc>https://idgarza.com/iceland/</loc>
         <lastmod>2017-10-04</lastmod>
-        <changefreq>never</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://idgarza.com/pct/simple-beautiful/</loc>
         <lastmod>2017-10-08</lastmod>
-        <changefreq>never</changefreq>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://idgarza.com/pct/the-trail/</loc>
+        <lastmod>2017-10-11</lastmod>
+        <changefreq>monthly</changefreq>
     </url>
 </urlset>
 <!--

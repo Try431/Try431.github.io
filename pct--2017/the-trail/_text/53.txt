@@ -1,0 +1,8 @@
+---
+top: 70
+left: 58
+width: 35
+height: 35
+textcolor: #f2e6d9
+---
+<i>Super</i> windy days like this are why most people hike the OCT southbound (SOBO). The prevailing winds during the summer blow primarily northwest to southeast. Walking against sand like this feels like you're getting blasted with sandpaper - not fun!

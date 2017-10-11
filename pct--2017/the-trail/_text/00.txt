@@ -1,0 +1,8 @@
+---
+top: 41
+left: 43
+width: 33
+height: 35
+textcolor: #cce5e4
+---
+<h1 style="margin-bottom: -0.5em; margin-left: -0.1em">The Trail</h1><br>A few highlights from a ~700 mile hike through Northern California, the Orgeon Coast, and Washington.

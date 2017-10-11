@@ -1,0 +1,8 @@
+---
+top: 75
+left: 7
+width: 30
+height: 35
+textcolor: #99ff99
+---
+What haze from wildfires does to a usually beautiful view of Mt. Ranier.
