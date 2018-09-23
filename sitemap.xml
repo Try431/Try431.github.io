@@ -2,22 +2,27 @@
     <url>
         <loc>https://idgarza.com/</loc>
         <lastmod>2017-10-04</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>yearly</changefreq>
     </url>
     <url>
         <loc>https://idgarza.com/iceland/</loc>
-        <lastmod>2017-10-04</lastmod>
-        <changefreq>monthly</changefreq>
+        <lastmod>2018-09-22</lastmod>
+        <changefreq>yearly</changefreq>
     </url>
     <url>
         <loc>https://idgarza.com/pct/simple-beautiful/</loc>
-        <lastmod>2017-10-08</lastmod>
-        <changefreq>monthly</changefreq>
+        <lastmod>2018-09-22</lastmod>
+        <changefreq>yearly</changefreq>
     </url>
     <url>
         <loc>https://idgarza.com/pct/the-trail/</loc>
-        <lastmod>2017-10-11</lastmod>
-        <changefreq>monthly</changefreq>
+        <lastmod>2018-09-22</lastmod>
+        <changefreq>yearly</changefreq>
+    </url>
+    <url>
+        <loc>https://idgarza.com/bloody-canyon/</loc>
+        <lastmod>2018-09-22</lastmod>
+        <changefreq>yearly</changefreq>
     </url>
 </urlset>
 <!--
