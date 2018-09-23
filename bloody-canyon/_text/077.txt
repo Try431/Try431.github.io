@@ -1,0 +1,8 @@
+---
+top: 22
+left: 39
+width: 37
+height: 35
+textcolor: #3385ff
+---
+Warming up and reviewing the footage.

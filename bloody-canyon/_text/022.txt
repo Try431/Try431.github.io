@@ -1,0 +1,8 @@
+---
+top: 73
+left: 64
+width: 35
+height: 35
+textcolor: #ebe8e0
+---
+A message left by some previous tenants. We couldn't quite figure out the full message - perhaps you can! Though the shadows make things quite a bit more difficult to parse.

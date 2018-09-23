@@ -1,0 +1,8 @@
+---
+top: 40
+left: 62
+width: 33
+height: 35
+textcolor: #e1dcd0
+---
+Our first night's camping spot was thataway -->

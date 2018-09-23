@@ -1,0 +1,8 @@
+---
+top: 57
+left: 10
+width: 25
+height: 35
+textcolor: #ffffff
+---
+With a camera hanging from the front of your pack, water crossings get a little bit nerve-wracking.

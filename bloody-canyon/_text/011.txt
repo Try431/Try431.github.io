@@ -1,0 +1,8 @@
+---
+top: 55
+left: 65
+width: 33
+height: 35
+textcolor: #f2e6d9
+---
+Little froggy!

@@ -1,0 +1,8 @@
+---
+top: 35
+left: 2
+width: 17
+height: 35
+textcolor: #a89471
+---
+Horse and mule trains are fairly common around these trails.

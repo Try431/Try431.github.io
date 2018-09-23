@@ -1,0 +1,8 @@
+---
+top: 35
+left: 75
+width: 40
+height: 35
+textcolor: #b36b00
+---
+Nothin' like an early-morning 5-hour drive!

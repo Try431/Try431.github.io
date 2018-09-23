@@ -1,0 +1,8 @@
+---
+top: 62
+left: 5
+width: 33
+height: 35
+textcolor: #cce5e4
+---
+Just some water a-splashin' around.

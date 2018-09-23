@@ -1,0 +1,8 @@
+---
+top: 20
+left: 65
+width: 15
+height: 35
+textcolor: #6d6646
+---
+That's all folks!

@@ -1,0 +1,8 @@
+---
+top: 49
+left: 69
+width: 17
+height: 35
+textcolor: #d8d4c0
+---
+I noticed movement under some rocks, and discovered this little pair!

@@ -1,0 +1,8 @@
+---
+top: 35
+left: 18
+width: 15
+height: 35
+textcolor: #f5f3ef
+---
+Unfortunately, the photos I took were out-of-focus due to user error :(

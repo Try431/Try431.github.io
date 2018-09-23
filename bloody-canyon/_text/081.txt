@@ -1,0 +1,8 @@
+---
+top: 60
+left: 76
+width: 30
+height: 35
+textcolor: #f5f3ef
+---
+...as it got just a little chilly overnight.

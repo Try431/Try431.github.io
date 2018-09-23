@@ -1,0 +1,8 @@
+---
+top: 24
+left: 83
+width: 30
+height: 35
+textcolor: #b3f0ff
+---
+Our morning climb.

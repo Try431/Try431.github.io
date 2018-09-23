@@ -1,0 +1,8 @@
+---
+top: 36
+left: 11
+width: 15
+height: 35
+textcolor: #dfbf9f
+---
+My buddy Ben takin' a quick look around the trailhead.

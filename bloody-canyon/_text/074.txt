@@ -1,0 +1,8 @@
+---
+top: 44
+left: 55
+width: 37
+height: 35
+textcolor: #e6f0ff
+---
+...and I am very much *not* acclimated to cold water, nor was I especially trying to be.

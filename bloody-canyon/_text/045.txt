@@ -1,0 +1,8 @@
+---
+top: 69
+left: 5
+width: 35
+height: 35
+textcolor: #ebe8e0
+---
+We found Waugh Lake (our second night's campsite) drained due to some work being done on the dam. Luckily there were still these small pools where we could collect water.

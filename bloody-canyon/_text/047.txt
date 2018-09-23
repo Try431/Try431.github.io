@@ -1,0 +1,8 @@
+---
+top: 41
+left: 52
+width: 35
+height: 35
+textcolor: #ebe8e0
+---
+Taken at just the right (wrong?) time.

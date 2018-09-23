@@ -1,0 +1,8 @@
+---
+top: 25
+left: 12
+width: 23
+height: 35
+textcolor: #3e3828
+---
+This time around at the top of Koip Peak Pass, we decided to check out the nearby glacier.

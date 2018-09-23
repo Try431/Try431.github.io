@@ -1,0 +1,8 @@
+---
+top: 50
+left: 21
+width: 34
+height: 35
+textcolor: #e6ffff
+---
+Turns out trying to skip rocks while making sure you don't smash the camera around your neck messes up your throw just a tad...

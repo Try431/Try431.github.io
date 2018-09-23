@@ -1,0 +1,8 @@
+---
+top: 52
+left: 32
+width: 35
+height: 35
+textcolor: #ebe8e0
+---
+Butt shot!

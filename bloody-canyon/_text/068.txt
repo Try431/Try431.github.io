@@ -1,0 +1,8 @@
+---
+top: 43
+left: 54
+width: 17
+height: 35
+textcolor: #cfc3b0
+---
+Just a license plate embedded about 15 feet up in a tree. 

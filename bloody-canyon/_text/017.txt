@@ -1,0 +1,8 @@
+---
+top: 63
+left: 68
+width: 33
+height: 35
+textcolor: #ebe8e0
+---
+Nothin' to see here! Just a dude standing in the middle of some prickly bushes trying to take a picture of a pinecone...

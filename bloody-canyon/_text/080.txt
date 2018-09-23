@@ -1,0 +1,8 @@
+---
+top: 34
+left: 12
+width: 30
+height: 35
+textcolor: #f5f3ef
+---
+Ben was a litle reluctant to get out of his sleeping bag. Understandable though...

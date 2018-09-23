@@ -1,0 +1,8 @@
+---
+top: 36
+left: 33
+width: 33
+height: 35
+textcolor: #cce5e4
+---
+Nope! We saw a bunch of little critters during our hike.

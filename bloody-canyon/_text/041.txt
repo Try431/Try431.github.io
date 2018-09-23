@@ -1,0 +1,8 @@
+---
+top: 47
+left: 16
+width: 17
+height: 35
+textcolor: #270c27
+---
+For some reason, there were these purple-colored rocks only during a small section of the trail. If you know what the deal is with this color, email in! (I slightly oversaturated the image to bring out the purple)

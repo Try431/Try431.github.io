@@ -1,0 +1,9 @@
+---
+top: 30
+left: 35
+width: 35
+height: 35
+polygon:[{"x":0, "y":0},{"x":10, "y":0},{"x":20, "y":100},{"x":40, "y":100}]
+textcolor: #ebe8e0
+---
+They're a bit hard to notice at first, but if you look closely, you can see the switchbacks to the left of this text.

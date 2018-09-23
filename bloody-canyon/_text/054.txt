@@ -1,0 +1,8 @@
+---
+top: 37
+left: 77
+width: 20
+height: 35
+textcolor: #ebe8e0
+---
+Walking across the bottom of Waugh Lake was pretty cool - there were a lot of old tree stumps like this one scattered throughout the lake bed.

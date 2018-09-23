@@ -1,0 +1,8 @@
+---
+top: 39
+left: 30
+width: 33
+height: 35
+textcolor: #f5f4ef
+---
+Mono Lake coming into view as we gained elevation.

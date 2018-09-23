@@ -1,0 +1,8 @@
+---
+top: 34
+left: 38
+width: 30
+height: 35
+textcolor: #007399
+---
+What ski slopes look like when they're not covered with snow.

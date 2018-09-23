@@ -1,0 +1,8 @@
+---
+top: 26
+left: 55
+width: 37
+height: 35
+textcolor: #e6f0ff
+---
+Ben was on a mission to get acclimated to cold water for some reason...

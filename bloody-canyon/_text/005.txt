@@ -1,0 +1,8 @@
+---
+top: 13
+left: 12
+width: 20
+height: 35
+textcolor: #ecd9c6
+---
+Ben was pretty good at catching me in awkward positions while I framed a shot.

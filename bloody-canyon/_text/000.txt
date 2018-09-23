@@ -1,0 +1,8 @@
+---
+top: 63
+left: 6
+width: 40
+height: 35
+textcolor: #f5f4ef
+---
+<h1 style="margin-bottom: -0.5em; margin-left: -1em">Bloody Canyon Trail</h1><br>A 4-day backpacking trip in<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and around Inyo National Forest.
