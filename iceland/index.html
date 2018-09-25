@@ -68,6 +68,8 @@
 	<li><a href="#" id="pinterest"><span class="icon pinterest"></span> Pinterest</a></li>
 	<script type="text/javascript">
 		$(document).ready(function(){
+		  $("video").prop("autoplay",true);
+		  $("video").prop("muted",true);
 			$('#pinterest').click(function(){
 				window.open('http://pinterest.com/pin/create/button/?url='+encodeURIComponent(window.location)+'&media='+encodeURIComponent(window.location)+($(current_slide).data('url')+'/'+$('#resolution li').eq(0).data('res')+'.jpg'));
 				return false;
