@@ -1,7 +1,7 @@
 var loadnext = 5; // preload next 5 slides
 var loadprev = 2; // keep previous 2 slides in case user scrolls up
 
-var videoloadnext=2; // preload videos less
+var videoloadnext=3; // preload videos less
 
 var resourcepath;
 
@@ -332,7 +332,7 @@ function scrollcheck(){
 			else{
 				// keeping all videos takes too much memory, reset as we go along
 				$(this).find('img.image').addClass('blank');
-				$(this).find('video, .progress').remove();
+				// $(this).find('video, .progress').remove(); // TODO - don't fully remove video, or find way to keep it in memory to avoid needing the active pane to reinstate video
 			}
 		});
 		
@@ -340,6 +340,10 @@ function scrollcheck(){
 
 		$(current_slide).nextAll().filter('.slide').slice(0,5).find('img.image').addClass('active');
 		$(current_slide).prevAll().filter('.slide').slice(0,2).find('img.image').addClass('active');
+		$(current_slide).prevAll().filter('.slide').slice(0,2).find('video.image').addClass('active');
+		$(current_slide).nextAll().filter('.slide').slice(0,2).find('video.image').addClass('active');
+
+
 		
 		// set custom colors
 		var sidebackground = $(current_slide).data('color2');
