@@ -332,7 +332,7 @@ function scrollcheck(){
 			else{
 				// keeping all videos takes too much memory, reset as we go along
 				$(this).find('img.image').addClass('blank');
-				// $(this).find('video, .progress').remove(); // TODO - don't fully remove video, or find way to keep it in memory to avoid needing the active pane to reinstate video
+				$(this).find('video, .progress').remove();
 			}
 		});
 		
