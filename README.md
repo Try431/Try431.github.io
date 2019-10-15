@@ -1,2 +1,2 @@
-# Try431.github.io
+# www.idgarza.com
 My personal website, primarily for presenting photography
