@@ -1,0 +1,8 @@
+---
+top: 85
+left: 65
+width: 30
+height: 35
+textcolor: #ffffff
+---
+My phone got so cold the camera started doing... whatever this is.

@@ -1,0 +1,8 @@
+---
+top: 50
+left: 40
+width: 23
+height: 35
+textcolor: #004d99
+---
+Just a frozen shoelace.

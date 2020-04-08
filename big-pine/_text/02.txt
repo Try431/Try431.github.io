@@ -1,0 +1,8 @@
+---
+top: 67
+left: 72
+width: 40
+height: 35
+textcolor: #ecd9c6
+---
+Ben's all geared up!

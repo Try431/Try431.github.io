@@ -1,0 +1,8 @@
+---
+top: 52
+left: 63
+width: 23
+height: 35
+textcolor: #d0d0e1
+---
+I left my water bottle too close to the fire :(

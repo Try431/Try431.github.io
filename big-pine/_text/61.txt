@@ -1,0 +1,8 @@
+---
+top: 25
+left: 26
+width: 40
+height: 35
+textcolor: #e6ffff
+---
+Summit Lake!

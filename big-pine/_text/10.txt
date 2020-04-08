@@ -1,0 +1,8 @@
+---
+top: 54
+left: 1
+width: 16
+height: 35
+textcolor: #0f0f0a
+---
+We never actually hit Baker Creek - I just like taking pictures of signs :)

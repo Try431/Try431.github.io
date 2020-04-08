@@ -1,0 +1,8 @@
+---
+top: 33
+left: 60
+width: 40
+height: 35
+textcolor: #f5f4ef
+---
+We stopped at the Eastern Sierra Interagency Visitor Center to pick up our backcountry walk-in permits, bright & early. Beautiful clear view of the Sierras.

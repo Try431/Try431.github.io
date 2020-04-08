@@ -1,0 +1,8 @@
+---
+top: 20
+left: 15
+width: 30
+height: 35
+textcolor: #001a33
+---
+I had to break through this ice to get water. I'd broken it yesterday afternoon too, but it froze again overnight.

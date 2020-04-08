@@ -1,0 +1,8 @@
+---
+top: 10
+left: 8
+width: 33
+height: 35
+textcolor: #ccf2ff
+---
+Enjoying a much-appreciated lunch break in the sun.

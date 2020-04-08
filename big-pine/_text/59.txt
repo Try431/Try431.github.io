@@ -1,0 +1,17 @@
+---
+top: 16
+left: 39
+width: 40
+height: 35
+textcolor: #b3e6b3
+---
+If you can't read it, the left side says "6-7"; the right says "Summit".
+
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+Ben! -->

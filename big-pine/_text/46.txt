@@ -1,0 +1,8 @@
+---
+top: 72
+left: 29
+width: 23
+height: 35
+textcolor: #001a33
+---
+This is where I had my camera stand for the long exposure shots.

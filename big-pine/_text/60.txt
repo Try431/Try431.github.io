@@ -1,0 +1,8 @@
+---
+top: 35
+left: 58
+width: 40
+height: 35
+textcolor: #003333
+---
+Fresh snow! We were the first to head out to Summit Lake since the snowfall.

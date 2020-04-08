@@ -1,0 +1,8 @@
+---
+top: 45
+left: 60
+width: 25
+height: 35
+textcolor: #cc6600
+---
+I really love fire - I spent some time just messing around with shutter speeds and apertures.

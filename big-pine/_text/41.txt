@@ -1,0 +1,8 @@
+---
+top: 46
+left: 65
+width: 30
+height: 35
+textcolor: #000d1a
+---
+We were able to restart the fire pretty easily by using the hot ash/embers from the night before. Thank goodness, cause damn it was cold.

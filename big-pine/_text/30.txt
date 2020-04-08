@@ -1,0 +1,8 @@
+---
+top: 21
+left: 70
+width: 25
+height: 35
+textcolor: #000000
+---
+Our new campsite in the woods - we spent a while gathering dead wood so we could have a fire burning until we decided to go to sleep about 4-5 hours later.

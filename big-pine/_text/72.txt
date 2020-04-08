@@ -1,0 +1,8 @@
+---
+top: 38
+left: 19
+width: 20
+height: 35
+textcolor: #997a00
+---
+Chasing the sun as we headed down the mountains.

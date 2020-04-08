@@ -1,0 +1,8 @@
+---
+top: 65
+left: 8
+width: 33
+height: 35
+textcolor: #003333
+---
+Overlooking Second Lake, where we originally planned to make camp. We eventually moved to a less-exposed area in the woods closer to the lakefront.

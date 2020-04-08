@@ -1,0 +1,8 @@
+---
+top: 73
+left: 75
+width: 20
+height: 35
+textcolor: #334d00
+---
+For the record, I do <b>NOT</b> approve of this type of marking up the natural landscape. <i>Leave No Trace</i>, y'all.

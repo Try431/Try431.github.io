@@ -1,0 +1,8 @@
+---
+top: 32
+left: 24
+width: 20
+height: 35
+textcolor: #e6ccb3
+---
+We stopped by our campsite on the way back down for a quick rest.
