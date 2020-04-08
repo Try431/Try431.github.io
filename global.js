@@ -1,7 +1,7 @@
-var loadnext = 5; // preload next 5 slides
-var loadprev = 2; // keep previous 2 slides in case user scrolls up
+var loadnext = 6 // preload next 6 slides
+var loadprev = 3; // keep previous 3 slides in case user scrolls up
 
-var videoloadnext=3; // preload videos less
+var videoloadnext=8; // preload videos
 
 var resourcepath;
 
