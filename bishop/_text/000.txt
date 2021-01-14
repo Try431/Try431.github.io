@@ -1,0 +1,8 @@
+---
+top: 45
+left: 32
+width: 40
+height: 20
+textcolor: #f5f4ef
+---
+<h1 style="margin-bottom: -0.5em; margin-left: -1em">Bishop Climbing Trip</h1><br>Two days out in Bishop for my first outdoor climbing experience.

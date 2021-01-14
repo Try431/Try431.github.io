@@ -1,0 +1,8 @@
+---
+top: 26
+left: 17
+width: 45
+height: 20
+textcolor: #8080ff
+---
+Bonus picture: this is from my roommate's trip up to Bishop in early 2020 (pre-COVID).

@@ -1,0 +1,8 @@
+---
+top: 8
+left: 78
+width: 20
+height: 20
+textcolor: #001a1a
+---
+It's kinda to tell with this not-great positioning (my bad), but damn was this a tall wall!

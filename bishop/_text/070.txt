@@ -1,0 +1,8 @@
+---
+top: 28
+left: 33
+width: 60
+height: 20
+textcolor: #004280
+---
+We didn't want to get back to LA <i>too</i> late, so we headed out in the early afternoon.

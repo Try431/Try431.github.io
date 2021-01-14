@@ -1,0 +1,8 @@
+---
+top: 38
+left: 49
+width: 35
+height: 20
+textcolor: #000000
+---
+Pam was the real MVP in the mornings.

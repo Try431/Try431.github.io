@@ -1,0 +1,8 @@
+---
+top: 50
+left: 61
+width: 30
+height: 20
+textcolor: #cce6ff
+---
+Ah, here's Whitney!

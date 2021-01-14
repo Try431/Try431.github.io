@@ -1,0 +1,8 @@
+---
+top: 9
+left: 45
+width: 30
+height: 20
+textcolor: #f9f2ec
+---
+She was much more interested in what Pam was cooking up!

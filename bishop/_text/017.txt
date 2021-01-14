@@ -1,0 +1,8 @@
+---
+top: 22
+left: 48
+width: 30
+height: 20
+textcolor: #f9f2ec
+---
+Thanks Pam!

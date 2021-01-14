@@ -1,0 +1,8 @@
+---
+top: 55
+left: 65
+width: 30
+height: 20
+textcolor: #4d1200
+---
+We stopped by Black Sheep Coffee Roasters for a quick pit stop before starting the long drive home...
