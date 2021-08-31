@@ -1,0 +1,8 @@
+---
+top: 20
+left: 63
+width: 40
+height: 20
+textcolor: #29293d
+---
+Some people were trying their luck at ice fishing with this tip up rig.

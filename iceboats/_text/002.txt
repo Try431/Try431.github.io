@@ -1,0 +1,8 @@
+---
+top: 14
+left: 78
+width: 20
+height: 25
+textcolor: #f2f2f2
+---
+I have a decent number of pictures from the build process, but a lot of them aren't really well-suited to this view format, so you'll notice some jumps in progress.

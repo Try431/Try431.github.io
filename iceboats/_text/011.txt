@@ -1,0 +1,8 @@
+---
+top: 30
+left: 74
+width: 24
+height: 20
+textcolor: #f2e6d9
+---
+The entire time, we were guided along by the very-knowledgeable Bill Buchholz (seen here), as well as Professor John Brisson (wearing the blue jacket a few pictures down).

@@ -1,0 +1,8 @@
+---
+top: 30
+left: 36
+width: 50
+height: 20
+textcolor: #d6d6c2
+---
+As it turned out, we weren't nearly the only ones out there taking advantage of the lake!

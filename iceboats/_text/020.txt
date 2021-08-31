@@ -1,0 +1,8 @@
+---
+top: 33
+left: 39
+width: 50
+height: 20
+textcolor: #f2e6d9
+---
+It's important that the skates are spaced equally apart to ensure the boat sails straight ahead.

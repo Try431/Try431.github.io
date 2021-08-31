@@ -1,0 +1,8 @@
+---
+top: 52
+left: 62
+width: 50
+height: 20
+textcolor: #d6d6c2
+---
+<h1 style="margin-bottom: -0.5em;">Sailing Day!</h1><br>We drove up to a frozen lake in Maine for a fun day of sailing :)

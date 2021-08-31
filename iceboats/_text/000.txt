@@ -1,0 +1,8 @@
+---
+top: 34
+left: 45
+width: 335
+height: 20
+textcolor: #f5f4ef
+---
+<h1 style="margin-bottom: -0.5em;">Ice Boats</h1><br>&emsp;&emsp;Building and sailing some ice sailboats with four students<br/>&ensp;&emsp;&emsp;&ensp;from SUTD during MIT's 2015 IAP.

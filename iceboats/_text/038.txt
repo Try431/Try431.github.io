@@ -1,0 +1,8 @@
+---
+top: 22
+left: 68
+width: 30
+height: 20
+textcolor: #14141f
+---
+...but nothing that a little teamwork (and detailed instruction) couldn't get done!

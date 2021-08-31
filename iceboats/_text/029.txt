@@ -1,0 +1,8 @@
+---
+top: 80
+left: 60
+width: 50
+height: 20
+textcolor: #d6d6c2
+---
+*\*cue Barney cleanup song\**

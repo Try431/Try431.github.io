@@ -1,0 +1,8 @@
+---
+top: 34
+left: 35
+width: 35
+height: 20
+textcolor: #001a1a
+---
+Ice doggo!

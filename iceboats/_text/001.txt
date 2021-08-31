@@ -1,0 +1,8 @@
+---
+top: 53
+left: 7
+width: 22
+height: 25
+textcolor: #1a1a00
+---
+Building an ice sailboat requires really precise construction, so blueprints like these are used as a base. The outer frame is bolted down to the table to avoid drift.

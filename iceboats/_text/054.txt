@@ -1,0 +1,8 @@
+---
+top: 23
+left: 4
+width: 40
+height: 20
+textcolor: #cce0ff
+---
+If you look closely, you can see where the blades cut paths into the ice.
