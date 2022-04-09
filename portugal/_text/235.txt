@@ -1,0 +1,8 @@
+---
+top: 65
+left: 37
+width: 20
+height: 26
+textcolor: #f9f2ec
+---
+Another bit of a culture shock was how ubiquitous cigarettes are :/

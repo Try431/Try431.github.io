@@ -1,0 +1,8 @@
+---
+top: 60
+left: 72
+width: 40
+height: 26
+textcolor: #ffffff
+---
+Empanadas & Co., great local spot in Lagos!

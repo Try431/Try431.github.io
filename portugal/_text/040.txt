@@ -1,0 +1,8 @@
+---
+top: 39
+left: 10
+width: 30
+height: 26
+textcolor: #ffffff
+---
+Sometimes all you had to go off of was a stick on the ground with a little paint on it.

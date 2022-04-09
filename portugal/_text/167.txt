@@ -1,0 +1,8 @@
+---
+top: 65
+left: 12
+width: 25
+height: 26
+textcolor: #595959
+---
+Whoever decided that a symbol-only design was a good one should be fired and banned from ever designing anything again.

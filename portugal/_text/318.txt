@@ -1,0 +1,8 @@
+---
+top: 37
+left: 2
+width: 32
+height: 26
+textcolor: #ffffff
+---
+This was a monument of sorts to all of the stone workers who build and maintain the cobblestone streets in Portuguese cities.

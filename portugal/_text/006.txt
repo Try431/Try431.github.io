@@ -1,0 +1,8 @@
+---
+top: 12
+left: 53
+width: 32
+height: 26
+textcolor: #f9f2ec
+---
+Huzzah! My bag arrived the next day - the trip was still on!

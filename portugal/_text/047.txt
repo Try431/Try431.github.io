@@ -1,0 +1,8 @@
+---
+top: 70
+left: 38
+width: 50
+height: 26
+textcolor: #ffffff
+---
+This was one of the best risottos I've ever had in my life.

@@ -1,0 +1,8 @@
+---
+top: 41
+left: 33
+width: 35
+height: 26
+textcolor: #f9f2ec
+---
+My lunch spot for the day. It was so damn windy that day though, I had to chase some stuff across the beach.

@@ -1,0 +1,8 @@
+---
+top: 16
+left: 13
+width: 30
+height: 26
+textcolor: #cceeff
+---
+Honestly, at this point I was already craving trees, mostly because it would mean a brief respite from the ubiquitous sand along the coasts. Also, I just like trees.

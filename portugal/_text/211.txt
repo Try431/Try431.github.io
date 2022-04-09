@@ -1,0 +1,8 @@
+---
+top: 40
+left: 55
+width: 40
+height: 26
+textcolor: #e6f3ff
+---
+This little cloud was holdin' it down all by itself.

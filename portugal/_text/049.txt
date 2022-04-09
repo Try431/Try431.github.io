@@ -1,0 +1,8 @@
+---
+top: 75
+left: 25
+width: 50
+height: 26
+textcolor: #ffffff
+---
+If there's one thing I can say about Portugal, it's that they loooove their pastelarias. Especially in the larger cities, it's basically impossible to not run into them.

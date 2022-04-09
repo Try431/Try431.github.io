@@ -1,0 +1,8 @@
+---
+top: 38
+left: 43
+width: 40
+height: 26
+textcolor: #ffffff
+---
+"You ever take it off any sweet jumps?"

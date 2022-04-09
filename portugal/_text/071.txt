@@ -1,0 +1,8 @@
+---
+top: 32
+left: 15
+width: 20
+height: 26
+textcolor: #cceeff
+---
+I ended up finding this little dude in a handful of other spots during my trip.

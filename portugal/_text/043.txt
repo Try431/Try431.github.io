@@ -1,0 +1,8 @@
+---
+top: 77
+left: 12
+width: 50
+height: 26
+textcolor: #c2c2d6
+---
+Once the sun set, it got dark pretty quickly. I ended up hiking a good 2.5 more hours in the dark.

@@ -1,0 +1,8 @@
+---
+top: 70
+left: 6
+width: 35
+height: 26
+textcolor: #ffffff
+---
+I'm always amazed at people's ability to reconstruct artifacts like this.

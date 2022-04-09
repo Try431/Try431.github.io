@@ -1,0 +1,8 @@
+---
+top: 47
+left: 36
+width: 32
+height: 26
+textcolor: #f2e5d9
+---
+Ginjinha is a portuguese liqueur made with ginja berries - honestly not my favorite thing, but I'm glad I gave it a shot (literally)!

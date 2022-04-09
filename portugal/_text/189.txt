@@ -1,0 +1,8 @@
+---
+top: 18
+left: 30
+width: 40
+height: 26
+textcolor: #f8f2ec
+---
+These were (really) old ruins that were a part of an archeological study site.

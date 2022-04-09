@@ -1,0 +1,8 @@
+---
+top: 48
+left: 67
+width: 38
+height: 26
+textcolor: #f8f2ec
+---
+The first of many trail markers I'd be keeping an eye out for.

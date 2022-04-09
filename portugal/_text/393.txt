@@ -1,0 +1,8 @@
+---
+top: 16
+left: 10
+width: 30
+height: 26
+textcolor: #1a1a1a
+---
+This was an old prisoner's wagon - those "windows" were actually just painted on. Brutal.

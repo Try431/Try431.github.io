@@ -1,0 +1,8 @@
+---
+top: 28
+left: 34
+width: 40
+height: 26
+textcolor: #66b5ff
+---
+The very tranquil view outside the room.

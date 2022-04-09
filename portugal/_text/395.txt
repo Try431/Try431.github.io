@@ -1,0 +1,8 @@
+---
+top: 10
+left: 30
+width: 30
+height: 26
+textcolor: #ffffff
+---
+This was, hands down, the absolute best chocolate cake I've ever had in my life. Landeau Chocolate, located within LxFactory (a complex with a bunch of shops, restaurants, and art spaces).

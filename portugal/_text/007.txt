@@ -1,0 +1,8 @@
+---
+top: 80
+left: 10
+width: 32
+height: 26
+textcolor: #f9f2ec
+---
+Finally leaving New York, enroute to Lisbon!

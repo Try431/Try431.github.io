@@ -1,0 +1,8 @@
+---
+top: 35
+left: 40
+width: 20
+height: 26
+textcolor: #e6f7ff
+---
+I spent a few hours at the National Tile Museum in Lisbon.

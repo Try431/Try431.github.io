@@ -1,0 +1,8 @@
+---
+top: 20
+left: 70
+width: 30
+height: 26
+textcolor: #1a1a1a
+---
+These pics were all taken at the National Coach Musuem in Lisbon. Some really old, reall cool stuff here! Crazy how intricately detailed these were.

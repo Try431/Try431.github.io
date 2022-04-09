@@ -1,0 +1,8 @@
+---
+top: 30
+left: 72
+width: 20
+height: 26
+textcolor: #ffffff
+---
+Don't really know how this happened, but it's interesting to see how the base is secured.

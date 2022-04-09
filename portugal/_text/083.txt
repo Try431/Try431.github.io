@@ -1,0 +1,8 @@
+---
+top: 16
+left: 70
+width: 30
+height: 26
+textcolor: #cceeff
+---
+I encountered quite a few of these activity stations when hiking around the country.

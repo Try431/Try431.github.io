@@ -1,0 +1,8 @@
+---
+top: 90
+left: 6
+width: 40
+height: 26
+textcolor: #f2e6d9
+---
+I love taking pictures of local artwork & graffiti, so there will be a lot from this trip.

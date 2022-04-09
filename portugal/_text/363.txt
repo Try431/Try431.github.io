@@ -1,0 +1,8 @@
+---
+top: 35
+left: 30
+width: 32
+height: 26
+textcolor: #ffffff
+---
+These peacocks were big chillin' outside of the Lisbon Zoo.

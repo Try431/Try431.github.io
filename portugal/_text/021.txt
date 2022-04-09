@@ -1,0 +1,10 @@
+---
+top: 72
+left: 8
+width: 38
+height: 26
+textcolor: #f8f2ec
+---
+Alright, one bus ride from Lisbon to Sines, and a quick taxi from Sines to Porto Covo, and we are officially on the trail!
+
+(Side note: my original plan was to walk from Sines to Porto Covo as a short first day, but given that I arrived effectively two days late, I cut that initial leg)

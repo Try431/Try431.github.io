@@ -1,0 +1,8 @@
+---
+top: 10
+left: 37
+width: 30
+height: 26
+textcolor: #404040
+---
+This was a night of traditional Fado music at Sr. Fado in Lisbon - I recommend you look into the history of Fado, it's pretty interesting.

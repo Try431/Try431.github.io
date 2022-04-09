@@ -1,0 +1,8 @@
+---
+top: 18
+left: 60
+width: 30
+height: 26
+textcolor: #a6a6a6
+---
+The last time I stumbled upon this little dude, and I was definitely keeping my eye out for him.

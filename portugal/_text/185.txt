@@ -1,0 +1,8 @@
+---
+top: 28
+left: 4
+width: 25
+height: 26
+textcolor: #f8f2ec
+---
+I only show a few here, but I took so many pictures of interesting (to me) bathroom signs.

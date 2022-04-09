@@ -1,0 +1,8 @@
+---
+top: 47
+left: 40
+width: 40
+height: 26
+textcolor: #808080
+---
+The sleepy town of Salema.

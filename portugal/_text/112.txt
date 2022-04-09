@@ -1,0 +1,8 @@
+---
+top: 75
+left: 5
+width: 50
+height: 26
+textcolor: #d6d6c2
+---
+This stretch of road going into Zambujeira do Mar seemed to stretch on *forever*.

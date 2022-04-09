@@ -1,0 +1,8 @@
+---
+top: 65
+left: 12
+width: 50
+height: 26
+textcolor: #ffeecc
+---
+Finally arrived at my camping destination. I set up my tent quickly, and went off to find a quick meal somewhere that might still be open.

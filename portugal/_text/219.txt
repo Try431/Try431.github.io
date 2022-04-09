@@ -1,0 +1,8 @@
+---
+top: 56
+left: 33
+width: 25
+height: 26
+textcolor: #dfbe9f
+---
+This cat was walking around greeting all the restaurant patrons, while avoiding a little girl chasing him.

@@ -1,0 +1,8 @@
+---
+top: 50
+left: 42
+width: 30
+height: 26
+textcolor: #e6e6e6
+---
+...except we sat on the tarmac for 2+ hours, and I missed my flight. So this is where I was for another solid hour trying to figure out what to do next, as my COVID test was actually going to expire before the next available flight. >_>

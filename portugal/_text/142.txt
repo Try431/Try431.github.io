@@ -1,0 +1,8 @@
+---
+top: 57
+left: 10
+width: 40
+height: 26
+textcolor: #ffffff
+---
+My cute little hostel for the night.

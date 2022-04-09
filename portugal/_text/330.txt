@@ -1,0 +1,8 @@
+---
+top: 5
+left: 5
+width: 32
+height: 26
+textcolor: #ffffff
+---
+This was one of the older local tinned fish shops in Lisbon. I got a few to take back home - they were good!

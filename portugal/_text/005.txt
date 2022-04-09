@@ -1,0 +1,8 @@
+---
+top: 48
+left: 31
+width: 32
+height: 26
+textcolor: #f2f2f2
+---
+Luckily, my very gracious friend (and her wonderful dog Bailey) allowed me to crash at her apartment while I dealt with the lost baggage issue and figured out what to do next.

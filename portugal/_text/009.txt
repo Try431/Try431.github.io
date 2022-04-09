@@ -1,0 +1,8 @@
+---
+top: 84
+left: 50
+width: 40
+height: 26
+textcolor: #f9f2ec
+---
+After officially arriving in Lisbon, I started making my way to the bus terminal that was going to take me to my first leg of the hike. I was able to walk the whole way from the airport, and passed through this lovely nearby park.

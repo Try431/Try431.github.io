@@ -1,0 +1,8 @@
+---
+top: 20
+left: 25
+width: 40
+height: 26
+textcolor: #001a1a
+---
+This was one of the best hostels I stayed at - if you happen to be in Sagres, check out the Pura Vida Divehouse. Very cozy, great people!

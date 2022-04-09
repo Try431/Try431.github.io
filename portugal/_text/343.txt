@@ -1,0 +1,8 @@
+---
+top: 27
+left: 20
+width: 32
+height: 26
+textcolor: #cceeff
+---
+The beautiful Jerónimos Monastery in Belém.

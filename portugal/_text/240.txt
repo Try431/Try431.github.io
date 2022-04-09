@@ -1,0 +1,8 @@
+---
+top: 35
+left: 40
+width: 30
+height: 26
+textcolor: #4d4d4d
+---
+This was my destination for the day - the most southwesterly point in Portugal, and I think Europe as well.

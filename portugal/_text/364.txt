@@ -1,0 +1,8 @@
+---
+top: 35
+left: 33
+width: 35
+height: 26
+textcolor: #ffffff
+---
+I spent one of my last remaining days in Portugal walking around Sintra.

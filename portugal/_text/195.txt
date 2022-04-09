@@ -1,0 +1,8 @@
+---
+top: 75
+left: 60
+width: 40
+height: 26
+textcolor: #e0e0d1
+---
+This sweet doggo was watching out for its owner who was out surfing.

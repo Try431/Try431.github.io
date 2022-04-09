@@ -1,0 +1,8 @@
+---
+top: 24
+left: 5
+width: 50
+height: 26
+textcolor: #004466
+---
+You'd see these occasionally, letting you know that this isn't a path you should take.

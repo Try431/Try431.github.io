@@ -1,0 +1,8 @@
+---
+top: 30
+left: 40
+width: 28
+height: 26
+textcolor: #e5cdb3
+---
+This is the castle I visited the next day. I had dinner this night with a very friendly Italian man. Hello Nikola!

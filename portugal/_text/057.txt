@@ -1,0 +1,8 @@
+---
+top: 20
+left: 5
+width: 20
+height: 26
+textcolor: #cceeff
+---
+Honestly some really impressive and beautiful artwork for being on the side of an abandoned building along the edge of a field.

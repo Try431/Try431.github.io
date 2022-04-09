@@ -1,0 +1,8 @@
+---
+top: 88
+left: 28
+width: 40
+height: 26
+textcolor: #f2f2f2
+---
+Most of the hostels I stayed at while hiking down the western coast were pretty empty, given I was going through tiny towns which are pretty sleepy during the winter.

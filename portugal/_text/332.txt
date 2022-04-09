@@ -1,0 +1,8 @@
+---
+top: 27
+left: 35
+width: 32
+height: 26
+textcolor: #ffffff
+---
+This was some of the best Indian food I've ever had - India Gate is the restaurant. This meal in particular was paneer jalfrezi.

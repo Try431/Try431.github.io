@@ -1,0 +1,8 @@
+---
+top: 35
+left: 63
+width: 32
+height: 26
+textcolor: #ffffff
+---
+Some sweets from the famous Pastéis de Belém (this was way too much for one sitting, by the way).

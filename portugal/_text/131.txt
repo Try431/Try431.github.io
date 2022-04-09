@@ -1,0 +1,8 @@
+---
+top: 30
+left: 15
+width: 30
+height: 26
+textcolor: #004f99
+---
+This was the view from the restaurant I stopped at. Definitely one of the perks of the Rota Vicentina as compared to something like the PCT.

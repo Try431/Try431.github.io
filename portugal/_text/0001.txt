@@ -1,0 +1,8 @@
+---
+top: 30
+left: 25
+width: 335
+height: 20
+textcolor: #ffffff
+---
+"Oh boy oh boy, just landed in Canada and can't wait to board my flight to Lisbon..."

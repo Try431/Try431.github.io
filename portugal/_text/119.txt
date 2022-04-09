@@ -1,0 +1,8 @@
+---
+top: 65
+left: 60
+width: 30
+height: 26
+textcolor: #d9d9d9
+---
+This campground was quite colorful.

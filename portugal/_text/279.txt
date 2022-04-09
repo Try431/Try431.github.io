@@ -1,0 +1,8 @@
+---
+top: 30
+left: 30
+width: 40
+height: 26
+textcolor: #e6f2ff
+---
+On my way to Lagos, I passed through the city of Burgau - I stopped here for lunch, and it felt like a really friendly city :)

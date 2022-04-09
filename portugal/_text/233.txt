@@ -1,0 +1,8 @@
+---
+top: 55
+left: 4
+width: 30
+height: 26
+textcolor: #f9f2ec
+---
+Europe is *really* in love with their bottled water. This was after I requested just a glass of water...

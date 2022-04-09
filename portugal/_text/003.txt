@@ -1,0 +1,10 @@
+---
+top: 10
+left: 19
+width: 33
+height: 26
+textcolor: #f2f2f2
+---
+I actually ended up needing to fly back to the US (I chose NYC because of proximity) to get re-tested, but a series of (very much not) hilarious snafus resulted in me staying in that Toronto airport for a good 14 hours longer than I'd planned.
+
+Lines like this were all over the airport, as flights were being canceled and delayed constantly.

@@ -1,0 +1,8 @@
+---
+top: 45
+left: 33
+width: 35
+height: 26
+textcolor: #f9f2ec
+---
+You can see how hard the wind was blowing by the spray off the waves.

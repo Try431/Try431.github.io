@@ -1,0 +1,8 @@
+---
+top: 30
+left: 25
+width: 30
+height: 26
+textcolor: #e6f3ff
+---
+Because of a double-booking mixup, I got this cute little room to myself for a night.

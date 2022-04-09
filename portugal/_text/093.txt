@@ -1,0 +1,8 @@
+---
+top: 30
+left: 45
+width: 30
+height: 26
+textcolor: #cceeff
+---
+<-- Steep stairs are steep.
