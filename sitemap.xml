@@ -2,7 +2,7 @@
     <url>
         <loc>https://idgarza.com/</loc>
         <lastmod>2017-10-04</lastmod>
-        <changefreq>yearly</changefreq>
+        <changefreq>never</changefreq>
     </url>
     <url>
         <loc>https://idgarza.com/iceboats/</loc>
@@ -12,22 +12,22 @@
     <url>
         <loc>https://idgarza.com/iceland/</loc>
         <lastmod>2018-09-22</lastmod>
-        <changefreq>yearly</changefreq>
+        <changefreq>never</changefreq>
     </url>
     <url>
         <loc>https://idgarza.com/pct/simple-beautiful/</loc>
         <lastmod>2018-09-22</lastmod>
-        <changefreq>yearly</changefreq>
+        <changefreq>never</changefreq>
     </url>
     <url>
         <loc>https://idgarza.com/pct/the-trail/</loc>
         <lastmod>2018-09-22</lastmod>
-        <changefreq>yearly</changefreq>
+        <changefreq>never</changefreq>
     </url>
     <url>
         <loc>https://idgarza.com/bloody-canyon/</loc>
         <lastmod>2018-09-22</lastmod>
-        <changefreq>yearly</changefreq>
+        <changefreq>never</changefreq>
     </url>
     <url>
         <loc>https://idgarza.com/bishop/</loc>
@@ -37,11 +37,16 @@
     <url>
         <loc>https://idgarza.com/big-pine/</loc>
         <lastmod>2020-04-08</lastmod>
-        <changefreq>yearly</changefreq>
+        <changefreq>never</changefreq>
     </url>
     <url>
         <loc>https://idgarza.com/portugal/</loc>
         <lastmod>2022-04-09</lastmod>
+        <changefreq>yearly</changefreq>
+    </url>
+    <url>
+        <loc>https://idgarza.com/scotland/</loc>
+        <lastmod>2023-10-31</lastmod>
         <changefreq>yearly</changefreq>
     </url>
 </urlset>
