@@ -1,0 +1,8 @@
+---
+top: 65
+left: 68
+width: 30
+height: 20
+textcolor: #ffffff
+---
+We may have needed to cross a barbed wire fence or two to get where we needed to go - it was the first of several lies my maps told me that day.

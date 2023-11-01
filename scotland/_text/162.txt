@@ -1,0 +1,8 @@
+---
+top: 65
+left: 65
+width: 45
+height: 20
+textcolor: #ffffff
+---
+I don't think I actually remember seeing ducks around.

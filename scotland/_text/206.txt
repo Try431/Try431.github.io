@@ -1,0 +1,8 @@
+---
+top: 40
+left: 60
+width: 33
+height: 20
+textcolor: #4d4d4d
+---
+The beginning of my penultimate day of hiking - a fair bit of climbing and some biting wind, but it'd prove to be a beautiful day.

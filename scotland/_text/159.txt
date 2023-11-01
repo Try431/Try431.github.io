@@ -1,0 +1,8 @@
+---
+top: 27
+left: 28
+width: 45
+height: 20
+textcolor: #0d0d0d
+---
+When hiking, you jump on every opportunity to wear some clean clothes!

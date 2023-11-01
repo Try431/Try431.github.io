@@ -1,0 +1,8 @@
+---
+top: 37
+left: 70
+width: 33
+height: 20
+textcolor: #000033
+---
+The clouds cleared and the sun felt *delightful*.

@@ -1,0 +1,8 @@
+---
+top: 32
+left: 26
+width: 45
+height: 20
+textcolor: #ffffff
+---
+There were many hills like this in Scotland - spotted with patches of woods, sometimes bordering fences that demarcated property lines.

@@ -1,0 +1,8 @@
+---
+top: 23
+left: 49
+width: 30
+height: 20
+textcolor: #0d0d0d
+---
+I am *freezing* in this picture, but the bout of cold rain had finally passed so I was pumped!

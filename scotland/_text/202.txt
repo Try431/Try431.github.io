@@ -1,0 +1,8 @@
+---
+top: 48
+left: 67
+width: 33
+height: 20
+textcolor: #ffffff
+---
+I was dreaming of this food alllll day.

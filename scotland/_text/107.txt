@@ -1,0 +1,8 @@
+---
+top: 53
+left: 64
+width: 25
+height: 20
+textcolor: #000000
+---
+Mmmm, worms.

@@ -1,0 +1,8 @@
+---
+top: 31
+left: 2
+width: 40
+height: 20
+textcolor: #f9f2ec
+---
+Was feeling better the next morning, but far from okay. Managed to keep down a Snickers and some nuts, which was a relief. The next several days I pretty much had no appetite, despite <i>really</i> needing the calories.

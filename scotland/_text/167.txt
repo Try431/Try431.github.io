@@ -1,0 +1,8 @@
+---
+top: 61
+left: 53
+width: 45
+height: 20
+textcolor: #ffffff
+---
+Snagged a Snickers and some warm tea here!

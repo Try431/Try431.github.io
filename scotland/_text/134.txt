@@ -1,0 +1,8 @@
+---
+top: 28
+left: 50
+width: 45
+height: 20
+textcolor: #003333
+---
+This was a fun water crossing! I elected to try to hop across on rocks to see if I could keep my feet dry - I managed to soak my feet at the very end, alas!

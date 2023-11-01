@@ -1,0 +1,8 @@
+---
+top: 65
+left: 48
+width: 55
+height: 20
+textcolor: #e6e6e6
+---
+Landed in Glasgow to beautiful weather with a day to kill before starting my trek.

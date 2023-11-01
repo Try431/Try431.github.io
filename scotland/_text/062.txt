@@ -1,0 +1,8 @@
+---
+top: 20
+left: 58
+width: 27
+height: 20
+textcolor: #e6ffff
+---
+...but it was an absolutelty beautiful day, so I couldn't complain!

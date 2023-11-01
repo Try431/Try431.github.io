@@ -1,0 +1,8 @@
+---
+top: 45
+left: 60
+width: 40
+height: 20
+textcolor: #ffffff
+---
+Today was a lot of walking across hilly, marshy land - there wasn't any trail to follow, so we had to keep checking in with our navigation and make sure we had the right bearings. We gave up pretty early on staying dry.

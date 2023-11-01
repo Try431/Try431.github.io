@@ -1,0 +1,8 @@
+---
+top: 47
+left: 49
+width: 40
+height: 20
+textcolor: #8c8c8c
+---
+Gotta keep on keepin' on.

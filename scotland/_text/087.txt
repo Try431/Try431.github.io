@@ -1,0 +1,8 @@
+---
+top: 61
+left: 6
+width: 15
+height: 20
+textcolor: #ffffff
+---
+Gray squirrels are invasive in Scotland, and there are a lot of efforts underway to protect the red squirrel.

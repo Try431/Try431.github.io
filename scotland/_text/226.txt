@@ -1,0 +1,8 @@
+---
+top: 74
+left: 50
+width: 40
+height: 20
+textcolor: #ffffff
+---
+I met Pete for the first time earlier that day, and he was a great traveling companion. One of my favorite parts of hiking around the world is the lovely (and sometimes not-so-lovely) people you get to meet!

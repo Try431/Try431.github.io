@@ -1,0 +1,8 @@
+---
+top: 55
+left: 40
+width: 30
+height: 20
+textcolor: #ffffff
+---
+My cute little bedroom for the next few days.

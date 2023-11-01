@@ -1,0 +1,8 @@
+---
+top: 40
+left: 15
+width: 30
+height: 20
+textcolor: #ffffff
+---
+Finally escaped the marshy woods and made it into the Land of Turbines. Pete and I split up here, and I set off on my final stretch to Stonehaven.

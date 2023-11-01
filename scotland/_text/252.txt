@@ -1,0 +1,8 @@
+---
+top: 85
+left: 50
+width: 30
+height: 20
+textcolor: #ffffff
+---
+I went to the Scotch Whisky Experience (a bit of a tourist pull, admittedly), but it was actually quite cool! They've got an impressively eclectic collection.

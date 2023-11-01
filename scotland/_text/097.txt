@@ -1,0 +1,8 @@
+---
+top: 70
+left: 40
+width: 40
+height: 20
+textcolor: #ffffff
+---
+One of the many parts of the hike where there was no trail to follow - you just had to know where you were headed and make your way across sometimes very marshy land.

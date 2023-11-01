@@ -1,0 +1,8 @@
+---
+top: 56
+left: 50
+width: 40
+height: 20
+textcolor: #ffffff
+---
+A lovely local shopkeeper told us about this gem of a field we could use for a camping spot - flat, dry, *and* near a stream? 10/10.

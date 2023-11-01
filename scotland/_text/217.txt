@@ -1,0 +1,8 @@
+---
+top: 37
+left: 8
+width: 33
+height: 20
+textcolor: #000033
+---
+We took a short break at the top of this small rock outcropping and enjoyed the view (and a break from the wind).

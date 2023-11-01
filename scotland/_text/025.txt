@@ -1,0 +1,8 @@
+---
+top: 15
+left: 51
+width: 20
+height: 20
+textcolor: #e6ffff
+---
+After a long bus right and a nice little walk, I arrived at my official starting point. Time to start hiking!

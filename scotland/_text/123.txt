@@ -1,0 +1,8 @@
+---
+top: 83
+left: 10
+width: 25
+height: 20
+textcolor: #ffffff
+---
+And we're off for the day! Gotta keep the feet dry (well, if you can).

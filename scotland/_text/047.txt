@@ -1,0 +1,8 @@
+---
+top: 5
+left: 42
+width: 40
+height: 20
+textcolor: #003566
+---
+Finally made it to my destination for the evening and set up camp. Unfortunately, I had been feeling worse and worse as the day went on - I spent that evening feeling extremely feverish, and I was unable to take in any food or water without throwing up. I was very dehydrated, but ultimately was able to keep down a few swallows of water at a time over the course of a few hours as I tried to sleep. Some very gracious hikers shared their electrolyte tablets with me, which I'm sure helped me get through the next day. Definitely some Type 3 fun. 

@@ -1,0 +1,8 @@
+---
+top: 25
+left: 45
+width: 30
+height: 20
+textcolor: #ffffff
+---
+I still wasn't used to how bright the sky was even late into the evening (this was around 9:30p).

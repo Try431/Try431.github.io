@@ -1,0 +1,8 @@
+---
+top: 33
+left: 50
+width: 40
+height: 20
+textcolor: #0088cc
+---
+Almost to my destination for the day (thank goodness - my legs were dead). I had a spot in the yard of a small hostel.

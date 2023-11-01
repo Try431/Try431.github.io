@@ -1,0 +1,8 @@
+---
+top: 80
+left: 10
+width: 27
+height: 20
+textcolor: #ffffff
+---
+Taking off from Fort Augustus the next morning, I was feeling a lot better. Still not 100%, but I could see the light at the end of the tunnel.

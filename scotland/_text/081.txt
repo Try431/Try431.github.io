@@ -1,0 +1,8 @@
+---
+top: 50
+left: 65
+width: 20
+height: 20
+textcolor: #bfbfbf
+---
+My cozy sleep spot for the night.

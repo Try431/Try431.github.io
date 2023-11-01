@@ -1,0 +1,8 @@
+---
+top: 20
+left: 15
+width: 40
+height: 20
+textcolor: #0d0d0d
+---
+This maze of dirt roads was actually much harder to navigate than I anticipated - my maps were showing paths that were so impassable, they definitely hadn't been used in years, and so figuring out where I could actually go to avoid wasting time was a challenge. Signs like this were a welcome sight as I neared the end.

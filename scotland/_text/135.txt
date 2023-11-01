@@ -1,0 +1,8 @@
+---
+top: 30
+left: 40
+width: 45
+height: 20
+textcolor: #005580
+---
+Mick took this opportunity to get a nice refreshing foot wash.

@@ -1,0 +1,8 @@
+---
+top: 33
+left: 57
+width: 25
+height: 20
+textcolor: #ffffff
+---
+Mick eyeing some baked goods made by the lovely Ali (one of the TGO coordinators) before we set out for the day.

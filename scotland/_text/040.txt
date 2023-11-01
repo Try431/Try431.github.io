@@ -1,0 +1,8 @@
+---
+top: 10
+left: 34
+width: 30
+height: 20
+textcolor: #ffffff
+---
+A trail marker for some falls, but it actually led me away from where I needed to go. That's why I'm a big fan of frequent sanity checks while hiking - checking your maps/navigation tools can save you big!

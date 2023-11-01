@@ -1,0 +1,8 @@
+---
+top: 40
+left: 70
+width: 40
+height: 20
+textcolor: #808080
+---
+The next morning had some beautiful fog.

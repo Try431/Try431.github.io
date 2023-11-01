@@ -1,0 +1,8 @@
+---
+top: 7
+left: 27
+width: 40
+height: 20
+textcolor: #ffffff
+---
+Mick used to be a botany professor, and so was always imparting some neat facts about the nature around us. Here, he's demonstrating a (simplified) rule of thumb about how you can estimate the age of some trees...

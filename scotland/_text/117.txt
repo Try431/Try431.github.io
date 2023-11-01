@@ -1,0 +1,8 @@
+---
+top: 32
+left: 8
+width: 37
+height: 20
+textcolor: #f2f2f2
+---
+Made it to the bothy (after losing the trail to some washout and needing to wander through some woods for a while), so this was a sight for sore eyes.

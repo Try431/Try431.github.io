@@ -1,0 +1,8 @@
+---
+top: 57
+left: 50
+width: 17
+height: 20
+textcolor: #f2f2f2
+---
+Took me a little bit to realize that the street signs were on the buildings themselves. Don't think I'd seen that before.

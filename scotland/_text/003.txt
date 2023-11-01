@@ -1,0 +1,8 @@
+---
+top: 70
+left: 7
+width: 30
+height: 20
+textcolor: #e6e6e6
+---
+Staying at a hostel for a night, with an early 4+ hour bus taking me to my starting point. Will be living out of this pack for the next 2+ weeks.

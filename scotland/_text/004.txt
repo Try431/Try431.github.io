@@ -1,0 +1,8 @@
+---
+top:20
+left: 42
+width: 22
+height: 20
+textcolor: #e6ffff
+---
+But for now, I've got some gear to pick up (fuel + food), and need to kill some time so the jet lag doesn't hit me <i>too</i> hard.

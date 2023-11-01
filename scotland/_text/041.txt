@@ -1,0 +1,8 @@
+---
+top: 5
+left: 52
+width: 40
+height: 20
+textcolor: #0f1e3e
+---
+One aspect of planning your own route is including FWAs, or "Foul Weather Alternatives", in the event that inclement weather makes certain ascents/descents too dangerous. Climbing up and over this <a href="https://en.wikipedia.org/wiki/Munro"><u>munro</u></a> was my original plan; however, I was feeling a lot more fatigued than I expected to, and didn't have much of an appetite, so I decided to go with my FWA here to save me some time + effort. This turned out to be an excellent decision...

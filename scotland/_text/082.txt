@@ -1,0 +1,8 @@
+---
+top: 20
+left: 15
+width: 40
+height: 20
+textcolor: #333333
+---
+Foggy and cold the next morning - one of the best parts of sleeping in a bothy instead of in your tent outside is you don't have to worry about dealing with a soaking tent in the morning.

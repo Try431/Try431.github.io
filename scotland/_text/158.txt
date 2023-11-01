@@ -1,0 +1,8 @@
+---
+top: 57
+left: 17
+width: 45
+height: 20
+textcolor: #ffffff
+---
+A lot of TGO hikers camp out at this RV park; some people snag hotels, but they're pretty limited and get taken far in advance.

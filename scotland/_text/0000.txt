@@ -1,0 +1,8 @@
+---
+top: 25
+left: 65
+width: 25
+height: 20
+textcolor: #ffffff
+---
+The basic idea of this challenge is to cross Scotland - anywhere along the west coast to anywhere on the east coast, and you have approximately two weeks to finish. One of the main parts of the challenge involves planning your own way, which is why I'll be relatively sparse with specific details of my route, but this is the gist of it.

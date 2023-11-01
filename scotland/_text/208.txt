@@ -1,0 +1,8 @@
+---
+top: 40
+left: 6
+width: 33
+height: 20
+textcolor: #f9f2ec
+---
+It's a \*bit\* hard to convey via photo, but this climb was *steeeeep*.

@@ -1,0 +1,8 @@
+---
+top: 37
+left: 30
+width: 40
+height: 20
+textcolor: #e6eeff
+---
+This copse was the destination for the day - almost there!

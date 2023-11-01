@@ -1,0 +1,8 @@
+---
+top: 37
+left: 11
+width: 45
+height: 20
+textcolor: #ffffff
+---
+Enjoying a nice lunch by a little stream.

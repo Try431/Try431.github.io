@@ -1,0 +1,8 @@
+---
+top: 24
+left: 2
+width: 30
+height: 20
+textcolor: #ffffff
+---
+Off to enjoy the rest of my Scotland time in Edinburgh - the TGO dinner at the hotel was great, and so was sleeping on a proper bed :p

@@ -1,0 +1,8 @@
+---
+top: 65
+left: 25
+width: 25
+height: 20
+textcolor: #ffffff
+---
+Guess it makes sense that all types of lanes are switched to the left.

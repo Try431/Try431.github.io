@@ -1,0 +1,8 @@
+---
+top: 85
+left: 55
+width: 30
+height: 20
+textcolor: #ffffff
+---
+Myself and other hikers enjoying the hospitality and warmth of the lodge - and our furry companions!

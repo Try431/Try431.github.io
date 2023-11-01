@@ -1,0 +1,8 @@
+---
+top: 15
+left: 50
+width: 40
+height: 20
+textcolor: #ffffff
+---
+Steve (the man wearing the red jacket in the video below) told us that he had refurbished this house with some others back in the *60s*! Pretty remarkable.

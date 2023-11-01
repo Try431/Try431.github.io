@@ -1,0 +1,8 @@
+---
+top: 36
+left: 52
+width: 40
+height: 20
+textcolor: #ccffff
+---
+I liked that signs had both walking and biking travel times.

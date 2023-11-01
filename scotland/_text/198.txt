@@ -1,0 +1,8 @@
+---
+top: 70
+left: 8
+width: 33
+height: 20
+textcolor: #e6ffe6
+---
+We took a short rest and ate a quick lunch at this bothy - gave us some time to dry out our socks, which lasted for about 5 minutes!

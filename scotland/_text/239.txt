@@ -1,0 +1,8 @@
+---
+top: 25
+left: 10
+width: 40
+height: 20
+textcolor: #ffffff
+---
+I was pretty dead when I got to the Park Hotel (the TGO finishing location), so I passed out pretty immediately for a few hours after my shower.

@@ -1,0 +1,8 @@
+---
+top: 85
+left: 30
+width: 45
+height: 20
+textcolor: #ffffff
+---
+Bright and early the next morning for my 6a bus up to Shiel Bridge (my starting point).

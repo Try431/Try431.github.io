@@ -1,0 +1,8 @@
+---
+top: 34
+left: 48
+width: 55
+height: 20
+textcolor: #e0e0d1
+---
+<h1 style="margin-bottom: -0.5em; margin-left: -0.1em">Scotland</h1><br>A 2-week backpacking trip through the Scottish lowlands <br>&ensp;as part of <u><a href="https://www.tgochallenge.com/">The Great Outdoors Challenge</a></u>.

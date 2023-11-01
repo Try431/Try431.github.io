@@ -1,0 +1,8 @@
+---
+top: 23
+left: 45
+width: 50
+height: 20
+textcolor: #000000
+---
+This is one of the many <u><a href="https://en.wikipedia.org/wiki/Bothy">bothies</a></u> scattered across Scotland. It actually started raining not too long after arriving for a short rest, so I was quite thankful for the shelter!

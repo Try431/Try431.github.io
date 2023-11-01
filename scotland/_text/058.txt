@@ -1,0 +1,8 @@
+---
+top: 46
+left: 12
+width: 27
+height: 20
+textcolor: #ffffff
+---
+While staying at Morag's Lodge in Fort Augustus, I met the lovely Jean-Marie, who had amazing stories from all over the world, and was currently biking through Europe.

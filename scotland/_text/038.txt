@@ -1,0 +1,8 @@
+---
+top: 28
+left: 40
+width: 20
+height: 20
+textcolor: #ffffff
+---
+Tiny frog dude in a little bit of water along the path.

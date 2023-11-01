@@ -1,0 +1,8 @@
+---
+top: 28
+left: 55
+width: 45
+height: 20
+textcolor: #ffffff
+---
+...especially when he was in fun poses :)
