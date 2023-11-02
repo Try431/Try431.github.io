@@ -22,6 +22,15 @@
 <ol id="marker">
 </ol>
 
+<div id="video_script">
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  $("video").prop("autoplay",true);
+		  $("video").prop("muted",true);
+		});
+	</script>
+</div>
+
 <div id="sidebar">
 	<div class="foreground">
 		<div id="profile" class="camera icon"></div>
@@ -46,44 +55,12 @@
 	<ul id="control">
 	<li><a href="#" id="resbutton"><span class="monitor icon"></span><span class="restext"></span></a></li>
 	<li style="display: block"><a href="#" id="textbutton" class="active"><span class="toggle icon"></span><span class="text">hide text</span></a></li>
-	<li style="display: block"><a href="#" id="sharebutton"><span class="heart icon"></span>share</a></li>
-	<li  style="display: none"><a href="#" id="download"><span class="download icon"></span>download</a></li>
 	</ul>
 			
 	<div class="background"></div>
 </div>
 
 <div id="resolution">
-</div>
-
-<div id="share">
-	<ul>
-	<li><a href="https://news.ycombinator.com/submit" target="_blank"><span class="icon hackernews"></span> Hackernews</a></li>
-	
-	<li><a href="#" onclick="window.open('https://www.facebook.com/sharer.php?u=' + encodeURIComponent(window.location)); return false">
-		<span class="icon facebook"></span> Facebook
-	</a></li>
-	
-	<li><a href="#" onclick="window.open('https://www.reddit.com/submit?url=' + encodeURIComponent(window.location)); return false">
-		<span class="icon reddit"></span> Reddit
-	</a></li>
-	
-	<li><a href="#" id="pinterest"><span class="icon pinterest"></span> Pinterest</a></li>
-	<script type="text/javascript">
-		$(document).ready(function(){
-			$('#pinterest').click(function(){
-				window.open('http://pinterest.com/pin/create/button/?url='+encodeURIComponent(window.location)+'&media='+encodeURIComponent(window.location)+($(current_slide).data('url')+'/'+$('#resolution li').eq(0).data('res')+'.jpg'));
-				return false;
-			});
-		});
-	</script>
-	
-	
-	<li><a href="#" onclick="window.open('https://twitter.com/intent/tweet?url=' + encodeURIComponent(window.location)); return false">
-		<span class="icon twitter"></span> Twitter
-	</a></li>
-	
-	</ul>
 </div>
 
 <div id="main">

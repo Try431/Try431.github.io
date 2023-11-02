@@ -136,9 +136,6 @@ $(document).ready(function(){
 	    if (!$(e.target).is('#resolution')) {
 	        $('#resolution').removeClass('active');
 	    }
-	    if (!$(e.target).is('#share')) {
-	        $('#share').removeClass('active');
-	    }
 	});
   	
 	if(saved_width){
@@ -182,7 +179,7 @@ $(document).ready(function(){
 	scrollcheck();
 	
 	// add back hover behavior erased by color changes
-	$('#sidebar a, #share a, #resolution a').not('#nav .active a').mouseenter(function(){
+	$('#sidebar a, #resolution a').not('#nav .active a').mouseenter(function(){
 		var color = $(this).css('color');
 		$(this).css('color','#ffffff');
 		$(this).data('prevcolor',color);
@@ -198,16 +195,6 @@ $(document).ready(function(){
 		$('.icon').addClass('webkit');
 	}
 	
-	$('#sharebutton').click(function(){
-		if($('#share').hasClass('active')){
-			$('#share').removeClass('active');
-		}
-		else{
-			$('#share').addClass('active');
-		}
-		$('#resolution').removeClass('active');
-		return false;
-	});
 	
 	$('#resbutton').click(function(){
 		if($('#resolution').hasClass('active')){
@@ -216,14 +203,6 @@ $(document).ready(function(){
 		else{
 			$('#resolution').addClass('active');
 		}
-		$('#share').removeClass('active');
-		return false;
-	});
-
-	// download current
-	$('#download').click(function(){
-		var url = $(current_slide).find('img.image').data('url');
-		window.open(resourcepath + url+'/'+url+'.zip');
 		return false;
 	});
 	
@@ -356,19 +335,15 @@ function scrollcheck(){
 			$('#resolution').css('background-color',resbackground);
 		}
 		
-		var sharebackground = $(current_slide).data('color4');
-		if(sharebackground){
-			$('#share').css('background-color',sharebackground);
-		}
 		
 		var highcolor = $(current_slide).data('textcolor');
 		var sidecolor = $(current_slide).data('color6');
 		if(sidecolor){
-			$('#sidebar, #sidebar a, #share a, #resolution a').css('color',sidecolor);
+			$('#sidebar, #sidebar a, #resolution a').css('color',sidecolor);
 			$('#sidebar .active a, #resolution .active a').css('color',highcolor).css('border-color', highcolor);
 		}
 		
-		$('#sidebar .icon.webkit, #share .icon.webkit').css('background-color',sidecolor);
+		$('#sidebar .icon.webkit').css('background-color',sidecolor);
 				
 		// highlight nav
 		
