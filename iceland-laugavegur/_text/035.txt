@@ -1,0 +1,8 @@
+---
+top: 17
+left: 20
+width: 40
+height: 35
+textcolor: #ffffff
+---
+Yes, it was very stinky.

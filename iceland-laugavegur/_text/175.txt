@@ -1,0 +1,8 @@
+---
+top: 20
+left: 33
+width: 40
+height: 35
+textcolor: #ffffff
+---
+Wrapping up my time in Iceland with a great cinnamon roll from Brauð & Co near downtown. I definitely had like three or four of these during my whole trip!

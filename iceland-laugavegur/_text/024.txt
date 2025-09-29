@@ -1,0 +1,8 @@
+---
+top: 25
+left: 20
+width: 40
+height: 35
+textcolor: #666666
+---
+On the road! 7am bus from Reykjavik, scheduled to arrive at the beginning of the trail (Landmannalaugar) by 11:30am.

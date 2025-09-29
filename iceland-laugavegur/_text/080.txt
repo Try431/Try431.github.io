@@ -1,0 +1,8 @@
+---
+top: 30
+left: 40
+width: 40
+height: 35
+textcolor: #ffe6cc
+---
+10/10 mushroom soup, nice and warm!

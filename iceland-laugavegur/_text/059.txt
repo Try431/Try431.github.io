@@ -1,0 +1,8 @@
+---
+top: 85
+left: 70
+width: 40
+height: 35
+textcolor: #ffffff
+---
+Showed up early, so got to snag a great stone circle :D

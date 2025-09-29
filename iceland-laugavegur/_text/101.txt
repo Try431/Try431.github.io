@@ -1,0 +1,8 @@
+---
+top: 53
+left: 58
+width: 40
+height: 35
+textcolor: #e6e6e6
+---
+This was the shelter tent I spent pretty much the rest of the day inside, chatting and hanging out with the peeps I'd gotten to know over the last few days.

@@ -1,0 +1,8 @@
+---
+top: 42
+left: 68
+width: 30
+height: 35
+textcolor: #f2e6d9
+---
+This downhill section was actually really sketchy - these guys ahead of me needed to scoot down, and I did the same. There was a lot of scree and it was super steep.

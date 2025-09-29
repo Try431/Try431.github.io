@@ -1,0 +1,8 @@
+---
+top: 24
+left: 17
+width: 70
+height: 35
+textcolor: #ffffff
+---
+I brought over dehydrated meals from the states, but still needed to pick up some extra calories at a local grocery!

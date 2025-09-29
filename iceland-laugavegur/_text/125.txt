@@ -1,0 +1,8 @@
+---
+top: 24
+left: 17
+width: 30
+height: 35
+textcolor: #ffffff
+---
+These three friends are some of the peeps I met and hiked with along the way. Best part about doing these trips is the people you meet!

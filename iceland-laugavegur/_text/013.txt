@@ -1,0 +1,8 @@
+---
+top: 35
+left: 52
+width: 27
+height: 35
+textcolor: #00254d
+---
+Kinda cool how you can see Hallgrímskirkja from around the city! It's a helpful landmark for navigation for sure.

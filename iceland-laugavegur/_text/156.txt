@@ -1,0 +1,8 @@
+---
+top: 43
+left: 35
+width: 40
+height: 35
+textcolor: #ffffff
+---
+Finally peeping Skógar in the distance!

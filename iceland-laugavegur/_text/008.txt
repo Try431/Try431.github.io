@@ -1,0 +1,8 @@
+---
+top: 40
+left: 60
+width: 40
+height: 35
+textcolor: #333333
+---
+Reykjavik is known for having cats everywhere, and people leave their windows open so cats can come and go.

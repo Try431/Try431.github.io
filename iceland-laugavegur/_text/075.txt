@@ -1,0 +1,8 @@
+---
+top: 76
+left: 2
+width: 30
+height: 35
+textcolor: #ffffff
+---
+I bought Crocs for this hike, because I wanted some proper water-crossing and camp shoes. Honestly, they worked great!

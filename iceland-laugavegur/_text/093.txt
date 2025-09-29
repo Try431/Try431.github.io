@@ -1,0 +1,8 @@
+---
+top: 80
+left: 30
+width: 40
+height: 35
+textcolor: #e6e6e6
+---
+None of the water crossings were difficult, but damn they were cold - my legs were numb by the time I got across.

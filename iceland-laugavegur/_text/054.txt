@@ -1,0 +1,8 @@
+---
+top: 40
+left: 52
+width: 40
+height: 35
+textcolor: #e6e6e6
+---
+"Leave No Trace" (AKA "Leave Better Than You Found It")

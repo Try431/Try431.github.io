@@ -1,0 +1,8 @@
+---
+top: 30
+left: 75
+width: 40
+height: 35
+textcolor: #ffffff
+---
+This was so cool to see up close!

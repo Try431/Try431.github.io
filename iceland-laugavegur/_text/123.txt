@@ -1,0 +1,8 @@
+---
+top: 50
+left: 60
+width: 40
+height: 35
+textcolor: #ffffff
+---
+On the other side, now just a short hike to Básar.

@@ -1,0 +1,8 @@
+---
+top: 16
+left: 60
+width: 40
+height: 35
+textcolor: #ecd9c6
+---
+There was sooo much leftover gas - people definitely overestimated how much they'd need for such a short hike.

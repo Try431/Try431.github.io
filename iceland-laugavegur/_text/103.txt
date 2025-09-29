@@ -1,0 +1,8 @@
+---
+top: 77
+left: 5
+width: 40
+height: 35
+textcolor: #e6e6e6
+---
+Today was the fourth (last) day of the Laugavegur Trail. It technically ends/starts at Langidalur, but because I was going on to complete the Fimmvörðuháls Trail the next day, I wanted to stay a little bit farther south at the Básar campground.

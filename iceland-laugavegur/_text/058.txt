@@ -1,0 +1,8 @@
+---
+top: 38
+left: 10
+width: 50
+height: 35
+textcolor: #8c8c8c
+---
+Made it to Hrafntinnusker! Red buildings are the huts, which people can pay to stay at; the white building is a shelter for people who are camping, which is where I spent the rest of the day after setting up my tent, hanging out and chatting with fellow hikers!

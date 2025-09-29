@@ -1,0 +1,8 @@
+---
+top: 90
+left: 30
+width: 40
+height: 35
+textcolor: #ffffff
+---
+These and other blue trail markers were used to mark the Laugavegur.

@@ -1,0 +1,8 @@
+---
+top: 57
+left: 40
+width: 40
+height: 35
+textcolor: #cccccc
+---
+The Fimmvörðuháls Trail is ~15 miles, and has quite steep ascents + descents - I needed to make a 4p bus, so I woke up ~5:30a to make sure I'd have plenty of time.

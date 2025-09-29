@@ -1,0 +1,8 @@
+---
+top: 18
+left: 34
+width: 45
+height: 35
+textcolor: #262626
+---
+Visited Svarta Kaffið, which is known for doing bread bowl soup with unlimited refills!

@@ -1,0 +1,8 @@
+---
+top: 50
+left: 8
+width: 40
+height: 35
+textcolor: #ffffff
+---
+Álftavatn technically could have been my destination for the day, but I'd decided to keep going to Hvanngil, which was only a few kilometers farther. None of the first four days' hiking was particularly long.

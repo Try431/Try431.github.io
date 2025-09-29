@@ -1,0 +1,8 @@
+---
+top: 50
+left: 75
+width: 40
+height: 35
+textcolor: #404040
+---
+Hallgrímskirkja in all her glory.

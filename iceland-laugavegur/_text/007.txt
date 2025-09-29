@@ -1,0 +1,8 @@
+---
+top: 80
+left: 28
+width: 17
+height: 35
+textcolor: #f2f2f2
+---
+It's nice having the ocean peek out as you're walking through the city.

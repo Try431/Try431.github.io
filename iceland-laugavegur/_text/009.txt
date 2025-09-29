@@ -1,0 +1,8 @@
+---
+top: 53
+left: 40
+width: 40
+height: 35
+textcolor: #ffffff
+---
+It's so cute!

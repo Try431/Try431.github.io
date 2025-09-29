@@ -1,0 +1,8 @@
+---
+top: 80
+left: 10
+width: 50
+height: 35
+textcolor: #f2f2f2
+---
+Landed at 6a due to the time difference, and was greeted with some beautiful morning sunlight at the airport! It's a 40-minute drive to Reykjavik, so took the airport shuttle to the city's main bus stop.

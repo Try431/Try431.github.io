@@ -1,0 +1,8 @@
+---
+top: 30
+left: 48
+width: 40
+height: 35
+textcolor: #ccccff
+---
+View from my hostel room!

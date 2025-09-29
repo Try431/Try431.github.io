@@ -1,0 +1,8 @@
+---
+top: 46
+left: 45
+width: 40
+height: 35
+textcolor: #eeeedd
+---
+You can stay at Landmannalaugar and enjoy the hot springs + day hikes around, so there were quite a few people without more involved gear.

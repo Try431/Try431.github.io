@@ -1,0 +1,8 @@
+---
+top: 33
+left: 33
+width: 30
+height: 35
+textcolor: #ffffff
+---
+I like collecting little fridge magnets, and I got this from Grænt og Grænt, a local art shop in the city.

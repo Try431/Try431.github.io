@@ -1,0 +1,8 @@
+---
+top: 80
+left: 10
+width: 30
+height: 35
+textcolor: #ffffff
+---
+Enjoying some lovely homemade soup and quiet reading time at the little restaurant here!

@@ -1,0 +1,8 @@
+---
+top: 26
+left: 17
+width: 35
+height: 35
+textcolor: #f6f6ee
+---
+There were a few river crossings, and I believe this was the first one of like 4 or 5 throughout the week.

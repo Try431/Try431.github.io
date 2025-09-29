@@ -1,0 +1,8 @@
+---
+top: 29
+left: 31
+width: 18
+height: 35
+textcolor: #000000
+---
+For my last full day in Iceland, I got a bit farther outside the city and checked out the Árbær Open Air Museum. It was a beautiful day!

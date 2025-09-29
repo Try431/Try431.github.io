@@ -1,0 +1,8 @@
+---
+top: 50
+left: 60
+width: 28
+height: 35
+textcolor: #4d4d4d
+---
+Random little museum I spotted while walking around, but they were closed!

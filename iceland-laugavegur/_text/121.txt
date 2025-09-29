@@ -1,0 +1,8 @@
+---
+top: 30
+left: 32
+width: 40
+height: 35
+textcolor: #4d4d4d
+---
+The bridges spanning the Krossá river were actually taken down just a few days prior to my arrival because the weather was extremely windy + wet enough that the Fimmvörðuháls Trail was deemed too dangerous. 

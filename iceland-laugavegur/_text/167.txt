@@ -1,0 +1,8 @@
+---
+top: 17
+left: 34
+width: 40
+height: 35
+textcolor: #ffffff
+---
+I love looking at different food flavors/mascots in other countries.

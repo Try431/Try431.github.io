@@ -1,0 +1,8 @@
+---
+top: 58
+left: 58
+width: 20
+height: 35
+textcolor: #ffffff
+---
+Enjoying some hot chocolate and chicken while chillin' at the bus stop.

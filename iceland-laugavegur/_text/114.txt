@@ -1,0 +1,8 @@
+---
+top: 85
+left: 30
+width: 45
+height: 35
+textcolor: #ffffff
+---
+I knew some people who were taking a bus off the trail at Langidalur, but I was off to Básar. I did detour a bit and checked out the Volcano Huts at Húsadalur, but didn't stay long.

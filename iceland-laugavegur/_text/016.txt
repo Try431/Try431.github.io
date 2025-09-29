@@ -1,0 +1,8 @@
+---
+top: 66
+left: 12
+width: 40
+height: 35
+textcolor: #ffffff
+---
+Wait... is that a giant jumping pillow thing?

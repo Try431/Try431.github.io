@@ -1,0 +1,8 @@
+---
+top: 20
+left: 10
+width: 30
+height: 35
+textcolor: #ffffff
+---
+We didn't get much clear sun while on the trail, so little moments like these were really appreciated.

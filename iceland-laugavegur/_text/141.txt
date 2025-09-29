@@ -1,0 +1,8 @@
+---
+top: 30
+left: 13
+width: 40
+height: 35
+textcolor: #595959
+---
+You can technically split this trail into two days, but I decided to just knock it out in one. Skógar is where the bus back to Reykjavík stops.

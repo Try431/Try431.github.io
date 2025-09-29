@@ -1,0 +1,8 @@
+---
+top: 39
+left: 60
+width: 30
+height: 35
+textcolor: #808080
+---
+The fog was really setting in at this point. You can also see how high the cairns + trail markers are, for when snow piles up.

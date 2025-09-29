@@ -1,0 +1,8 @@
+---
+top: 38
+left: 33
+width: 40
+height: 35
+textcolor: #808080
+---
+Pictures never do quite convey a good sense of how large or steep something is.
