@@ -7,12 +7,12 @@
     <url>
         <loc>https://idgarza.com/iceboats/</loc>
         <lastmod>2021-08-30</lastmod>
-        <changefreq>yearly</changefreq>
+        <changefreq>never</changefreq>
     </url>
     <url>
-        <loc>https://idgarza.com/iceland/</loc>
-        <lastmod>2018-09-22</lastmod>
-        <changefreq>never</changefreq>
+        <loc>https://idgarza.com/iceland-spring-break/</loc>
+        <lastmod>2025-09-28</lastmod>
+        <changefreq>yearly</changefreq>
     </url>
     <url>
         <loc>https://idgarza.com/pct/simple-beautiful/</loc>
@@ -32,7 +32,7 @@
     <url>
         <loc>https://idgarza.com/bishop/</loc>
         <lastmod>2021-01-13</lastmod>
-        <changefreq>yearly</changefreq>
+        <changefreq>never</changefreq>
     </url>
     <url>
         <loc>https://idgarza.com/big-pine/</loc>
@@ -42,11 +42,16 @@
     <url>
         <loc>https://idgarza.com/portugal/</loc>
         <lastmod>2022-04-09</lastmod>
-        <changefreq>yearly</changefreq>
+        <changefreq>never</changefreq>
     </url>
     <url>
         <loc>https://idgarza.com/scotland/</loc>
         <lastmod>2023-10-31</lastmod>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://idgarza.com/iceland-laugavegur/</loc>
+        <lastmod>2025-09-28</lastmod>
         <changefreq>yearly</changefreq>
     </url>
 </urlset>
