@@ -235,119 +235,60 @@ clear: both;
 	-webkit-mask-box-image: url(img/text_mask.png);
 }
 
-.icon.comment{
-	background: transparent url(img/comment.png) no-repeat;
-}
-
-.icon.comment.webkit{
-	background-image: none;
-	-webkit-mask-box-image: url(img/comment_mask.png);
-}
 
 
-.icon.heart{
-	background: transparent url(img/heart.png) no-repeat;
-}
 
-.icon.heart.webkit{
-	background-image: none;
-	-webkit-mask-box-image: url(img/heart_mask.png);
-}
 
-.icon.download{
-	background: transparent url(img/download.png) no-repeat;
-}
 
-.icon.download.webkit{
-	background-image: none;
-	-webkit-mask-box-image: url(img/download_mask.png);
-}
+
+
+
+
+
+
+
 
 .icon.webkit{
 	background-color: #ccc;
 }
 
-#share .icon{
-width: 26px;
-height: 24px;
-margin: 7px 10px 0 10px;
-background-color: #ddd;
-}
 
-.icon.hackernews{
-	background: transparent url(img/hackernews.png) no-repeat;
-}
 
-.icon.hackernews.webkit{
-	background-image: none;
-	-webkit-mask-box-image: url(img/hackernews_mask.png);
-}
 
-.icon.facebook{
-	background: transparent url(img/facebook.png) no-repeat;
-}
 
-.icon.facebook.webkit{
-	background-image: none;
-	-webkit-mask-box-image: url(img/facebook_mask.png);
-}
 
-.icon.twitter{
-	background: transparent url(img/twitter.png) no-repeat;
-}
 
-.icon.twitter.webkit{
-	background-image: none;
-	-webkit-mask-box-image: url(img/twitter_mask.png);
-}
 
-.icon.reddit{
-	background: transparent url(img/reddit.png) no-repeat;
-}
 
-.icon.reddit.webkit{
-	background-image: none;
-	-webkit-mask-box-image: url(img/reddit_mask.png);
-}
 
-.icon.pinterest{
-	background: transparent url(img/pinterest.png) no-repeat;
-}
 
-.icon.pinterest.webkit{
-	background-image: none;
-	-webkit-mask-box-image: url(img/pinterest_mask.png);
-}
+
+
+
+
+
+
+
+
+
+
+
 
 #textbutton{
 cursor: pointer;
 }
 
-/* comments */
-#comments{
-background-color: #000;
-}
 
-#disqus_thread{
-	margin: 40px 70px 70px 70px;
-}
 
-.close{
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 30px;
-	background: #222 url(img/close.png) no-repeat;
-	background-position: 95% 50%;
-}
 
-.close:hover{
-	background-color: #444;
-}
 
-/* share */
-#share, #resolution{
+
+
+
+
+
+
+#resolution{
 	position: fixed;
 	bottom: 0;
 	left: 170px;
@@ -356,7 +297,7 @@ background-color: #000;
 	background-color: #333;
 	width: 0;
 	overflow: hidden;
-	
+
 	-webkit-transition: color 1s, background-color 1s, width 0.5s;
 	-moz-transition: color 1s, background-color 1s, width 0.5s;
 	-ms-transition: color 1s, background-color 1s, width 0.5s;
@@ -365,11 +306,11 @@ background-color: #000;
 	font-size: 14px;
 }
 
-#share.active, #resolution.active{
+#resolution.active{
 	width: 163px;
 }
 
-#share ul, #resolution ul{
+#resolution ul{
 	position: absolute;
 	bottom: 33px;
 	left: 15px;
@@ -380,7 +321,7 @@ background-color: #000;
 	padding: 0;
 }
 
-#share ul li, #resolution ul li{
+#resolution ul li{
 	display: block;
 	list-style: none;
 	margin: 0;
@@ -422,7 +363,7 @@ z-index: 1;
 position: relative;
 }
 
-.slide, #comments{
+.slide{
 float: left;
 margin: 0;
 padding: 0;
@@ -431,10 +372,6 @@ height: auto;
 clear: both;
 overflow: hidden;
 position: relative;
-}
-
-#comments{
-min-height: 400px;
 }
 
 .progress{
@@ -562,100 +499,31 @@ margin: 10px 0 0 0;
 font: 300 18px/22px 'Lato',helvetica, arial, sans-serif;
 }
 
-.post h2 .sub{
-float: left;
-width: 16px;
-height: 16px;
-background: transparent url(img/comment.png) no-repeat;
-margin: 10px 10px 0 0;
-}
 
-.post .pagenav{
-float: left;
-margin: 30px 0 0 0;
-padding: 0;
-overflow: hidden;
-clear: both;
-}
 
-.post .pagenav li{
-float: left;
-list-style: none;
-margin: 0 12px 0 0;
-width: 25px;
-height: 26px;
-border: 1px solid #fff;
--webkit-border-radius: 25px;
--moz-border-radius: 25px;
-border-radius: 25px;
-text-align: center;
-line-height: 25px;
-cursor: pointer;
-font-size: 14px;
--webkit-transition: background-color 0.2s;
--moz-transition: background-color 0.2s;
--ms-transition: background-color 0.2s;
--o-transition: background-color 0.2s;
-transition: background-color 0.2s;
-}
 
-.post .pagenav li:hover{
-background-color: #ed5a2d;
-border-color: #ed5a2d;
-}
 
-.post .pagenav li.active{
-background-color: #fff;
-color: #333;
-border-color: #fff;
-cursor: default;
-}
 
-/* bottom nav */
-.prev, .next{
-width: 50%;
-float: left;
-}
 
-.prev a, .next a{
-display: block;
-min-height: 100px;
-font: 300 48px 'Lato',helvetica, arial, sans-serif;
--webkit-transition: all 0.5s;
--moz-transition: all 0.5s;
--ms-transition: all 0.5s;
--o-transition: all 0.5s;
-transition: all 0.5s;
-}
 
-.prev a{
-padding: 30px 0 30px 120px;
-background: transparent url(img/prev.png) no-repeat;
-background-position: 50px 42px;
-}
 
-.next a{
-padding: 30px 120px 30px 0;
-background: transparent url(img/next.png) no-repeat;
-background-position: 100% 42px;
-}
 
-.next a{
-text-align: right;
-}
 
-.final.slide a .text{
--webkit-text-stroke: 0.5px;
-}
 
-.final.slide a .sub{
-display: block;
-font-size: 20px;
-}
 
-.prev a:hover, .next a:hover{
-background-color: #222;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* polygon */
 .polygon{
@@ -666,4 +534,425 @@ white-space: nowrap;
 display: inline-block;
 height: 10px;
 min-width: 1px;
+}
+
+/* ============ phone mode (body.phone set by global.js) ============ */
+
+/* the desktop min-width makes the page ~1000px wide, which forces mobile
+   browsers to expand the layout viewport (~1000 CSS px) so innerWidth
+   reports "desktop" before JS can add body.phone. Clear it at layout time
+   via media query — body.phone alone would apply too late. */
+@media screen and (max-width: 768px), screen and (pointer: coarse) and (max-height: 500px){
+#main{
+min-width: 0;
+padding-left: 0;
+}
+}
+
+#menubutton{
+display: none;
+}
+
+body.phone #menubutton{
+display: block;
+position: fixed;
+top: 12px;
+left: 15px;
+width: 40px;
+height: 40px;
+padding: 0;
+border: 1px solid rgba(255,255,255,0.25);
+border-radius: 4px;
+background: rgba(0,0,0,0.55);
+cursor: pointer;
+z-index: 30;
+}
+
+body.phone #menubutton span{
+display: block;
+width: 22px;
+height: 2px;
+margin: 5px auto;
+background: #eee;
+}
+
+body.phone #main{
+padding-left: 0;
+min-width: 0;
+}
+
+body.phone #sidebar{
+left: 7px;
+width: 280px;
+max-width: 82vw;
+height: 100%;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+padding-top: 56px;
+overflow: hidden;
+display: -webkit-flex;
+display: flex;
+-webkit-flex-direction: column;
+flex-direction: column;
+-webkit-transform: translateX(-105%);
+-moz-transform: translateX(-105%);
+-ms-transform: translateX(-105%);
+transform: translateX(-105%);
+-webkit-transition: transform 0.25s ease, color 1s;
+-moz-transition: transform 0.25s ease, color 1s;
+-ms-transition: transform 0.25s ease, color 1s;
+-o-transition: transform 0.25s ease, color 1s;
+transition: transform 0.25s ease, color 1s;
+}
+
+body.phone.menu-open #sidebar{
+-webkit-transform: none;
+-moz-transform: none;
+-ms-transform: none;
+transform: none;
+}
+
+/* the drawer itself doesn't scroll, so the tinted background (absolute,
+   100% of the drawer) always covers it top to bottom */
+body.phone #sidebar .background{
+-moz-opacity: 0.92;
+-webkit-opacity: 0.92;
+opacity: 0.92;
+}
+
+/* title + gallery list: keeps the desktop float layout (icon beside the
+   title); overflow-y makes it contain the floats and scroll on short screens */
+body.phone #sidebar .foreground{
+position: relative;
+height: auto;
+-webkit-flex: 1 1 auto;
+flex: 1 1 auto;
+min-height: 0;
+overflow-y: auto;
+-webkit-overflow-scrolling: touch;
+padding-bottom: 10px;
+}
+
+body.phone #sidebar #profile{
+margin-top: 0;
+}
+
+body.phone #sidebar h1{
+padding-top: 0;
+}
+
+/* resolution / text controls stay pinned at the bottom of the drawer */
+body.phone #control{
+position: relative;
+bottom: auto;
+left: auto;
+-webkit-flex: none;
+flex: none;
+padding: 10px 0 20px 0;
+margin: 0;
+}
+
+/* resolution list lives inline in the drawer, toggled by the res button */
+body.phone #resolution{
+position: relative;
+width: auto;
+height: auto;
+display: none;
+background: transparent;
+-webkit-transition: none;
+-moz-transition: none;
+-ms-transition: none;
+-o-transition: none;
+transition: none;
+}
+
+body.phone #resolution.active{
+display: block;
+width: auto;
+}
+
+body.phone #resolution ul{
+position: static;
+width: auto;
+padding: 0 0 0 20px;
+}
+
+body.phone #resolution ul li{
+height: 32px;
+line-height: 32px;
+margin-left: 10px;
+}
+
+body.phone #resolution ul li a{
+font-size: 16px;
+}
+
+/* viewer open: hide the menu button */
+body.viewer-open #menubutton{
+display: none;
+}
+
+/* menu items that only make sense on phones */
+#control li.phone-only{
+display: none;
+}
+
+body.phone #control li.phone-only{
+display: block;
+}
+
+/* ============ captions below the photo (body.captions-below) ============ */
+
+body.captions-below{
+font-size: 15px !important;
+line-height: 1.5 !important;
+}
+
+/* photo + caption read as one card: slight inset, rounded corners, soft
+   shadow. The caption stays in the slide's color band so it visually
+   belongs to the photo above it. The inset goes on #main so the slide's
+   aspect-ratio padding stays in sync with the narrower photo. */
+body.captions-below #main{
+padding-left: 12px;
+padding-right: 12px;
+}
+
+body.captions-below #main .slide{
+margin-bottom: 6px;
+border-radius: 8px;
+box-shadow: 0 2px 12px rgba(0,0,0,0.45);
+}
+
+body.captions-below #main .post{
+position: static !important;
+top: auto !important;
+left: auto !important;
+width: auto !important;
+height: auto !important;
+padding: 12px 16px;
+font-size: 15px;
+line-height: 1.5;
+color: #e8e8e8;
+}
+
+body.captions-below #main .post .content{
+position: static;
+width: auto;
+height: auto;
+overflow-wrap: break-word;
+word-wrap: break-word;
+}
+
+/* inline indents/offsets place text on the photo; below it they only push
+   text out of the box */
+body.captions-below #main .post .content *{
+text-indent: 0 !important;
+margin-left: 0 !important;
+margin-right: 0 !important;
+max-width: 100%;
+}
+
+body.captions-below #main .post .content p{
+margin-top: 0 !important;
+}
+
+body.captions-below #main .post.hidden,
+body.captions-below #main .post.post-empty{
+display: none;
+}
+
+body.captions-below #main .post h1,
+body.captions-below #main .post h2,
+body.captions-below #main .post h3{
+font-size: 2.2em;
+padding: 4px 0 6px 0;
+-webkit-text-stroke: 0;
+}
+
+
+
+/* ============ full-screen viewer (#viewer) ============ */
+
+#viewer{
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100vh;
+height: 100dvh;
+background: #000;
+z-index: 100;
+}
+
+.viewer-track{
+display: flex;
+overflow-x: auto;
+overflow-y: hidden;
+width: 100%;
+height: 100%;
+scroll-snap-type: x proximity;
+-webkit-overflow-scrolling: touch;
+scrollbar-width: none;
+}
+
+.viewer-track::-webkit-scrollbar{
+display: none;
+}
+
+.viewer-slide{
+flex: 0 0 100vw;
+height: 100%;
+scroll-snap-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.viewer-frame{
+position: relative;
+overflow: hidden;
+}
+
+.viewer-img{
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+object-fit: contain;
+}
+
+/* captions laid out at page width, scaled to the frame (viewer.js) */
+.viewer-stage{
+position: absolute;
+top: 0;
+left: 0;
+z-index: 5;
+-webkit-transform-origin: 0 0;
+transform-origin: 0 0;
+}
+
+#viewer .viewer-post{
+position: absolute;
+z-index: 5;
+-webkit-transition: opacity 0.5s ease-in;
+-moz-transition: opacity 0.5s ease-in;
+-ms-transition: opacity 0.5s ease-in;
+-o-transition: opacity 0.5s ease-in;
+transition: opacity 0.5s ease-in;
+}
+
+.viewer-close{
+position: fixed;
+top: 12px;
+right: 16px;
+width: 44px;
+height: 44px;
+font-size: 32px;
+line-height: 40px;
+color: #eee;
+background: rgba(0,0,0,0.4);
+border: 1px solid rgba(255,255,255,0.25);
+border-radius: 4px;
+cursor: pointer;
+z-index: 101;
+padding: 0;
+}
+
+.rotate-hint{
+position: fixed;
+bottom: 10%;
+left: 50%;
+margin-left: -24px;
+z-index: 101;
+pointer-events: none;
+-webkit-animation: rotatehint 1.2s ease-in-out infinite alternate;
+animation: rotatehint 1.2s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes rotatehint{
+from{ -webkit-transform: rotate(-90deg); }
+to{ -webkit-transform: rotate(0deg); }
+}
+
+@keyframes rotatehint{
+from{ transform: rotate(-90deg); }
+to{ transform: rotate(0deg); }
+}
+
+/* clicking a slide opens the viewer on desktop */
+body:not(.phone) .slide{
+cursor: zoom-in;
+}
+
+/* ============ bio page ============ */
+
+body.bio::after{
+content: '';
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background: url(img/sunset_PCT.jpg) no-repeat center center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+-moz-opacity: 0.22;
+-webkit-opacity: 0.22;
+opacity: 0.22;
+z-index: 0;
+}
+
+body.bio #main{
+position: relative;
+z-index: 1;
+}
+
+#bio{
+max-width: 720px;
+padding: 60px 40px 80px 40px;
+font-size: 15px;
+line-height: 1.6;
+color: #eee;
+}
+
+#bio h1{
+font: 100 3.4em 'Lato', helvetica, arial, sans-serif;
+margin: 0 0 20px 0;
+padding: 0;
+}
+
+#bio h2{
+font: 300 1.4em 'Lato', helvetica, arial, sans-serif;
+margin: 30px 0 8px 0;
+padding: 0;
+}
+
+#bio p{
+margin: 0 0 16px 0;
+}
+
+#bio a{
+text-decoration: underline;
+}
+
+#bio .nobr{
+white-space: nowrap;
+margin-right: 10px;
+}
+
+body.phone #bio{
+padding: 64px 20px 60px 28px;
+}
+
+/* hidden captions in the viewer don't eat clicks meant to close it */
+#viewer .viewer-post.hidden{
+opacity: 0;
+pointer-events: none;
+}
+
+body:not(.phone) #viewer .viewer-frame{
+cursor: zoom-out;
 }
