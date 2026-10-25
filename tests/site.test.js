@@ -111,6 +111,57 @@ test('belowCaptionHtml strips on-photo spacing hacks', () => {
     assert.equal(S.belowCaptionHtml('<p><a href="https://a.com/?x=1">a</a></p>'), '<p><a href="https://a.com/?x=1">a</a></p>');
 });
 
+test('zoomAbout keeps the pointed frame point fixed', () => {
+    // frame 800x600 centered in a 1000x700 slide: origin at (100, 50)
+    const g = {frameW: 800, frameH: 600, vpW: 1000, vpH: 700};
+    const z = S.zoomAbout({scale: 1, x: 0, y: 0}, 500, 350, 2, g.frameW, g.frameH, g.vpW, g.vpH);
+    assert.equal(z.scale, 2);
+    // pointer (500,350) sat on frame point (400,300); at scale 2 it must land
+    // at the same slide point: origin + t + 2*(400,300) = (500,350)
+    assert.ok(Math.abs(100 + z.x + 2 * 400 - 500) < 1e-9);
+    assert.ok(Math.abs(50 + z.y + 2 * 300 - 350) < 1e-9);
+});
+
+test('zoomAbout scales around an off-center pointer', () => {
+    // frame point under (300,200) at scale 1 is (200,150) inside the frame
+    const z = S.zoomAbout({scale: 1, x: 0, y: 0}, 300, 200, 2, 800, 600, 1000, 700);
+    assert.ok(Math.abs(100 + z.x + 2 * 200 - 300) < 1e-9);
+    assert.ok(Math.abs(50 + z.y + 2 * 150 - 200) < 1e-9);
+});
+
+test('zoomAbout clamps scale to [1, 5]', () => {
+    const base = {scale: 1, x: 0, y: 0};
+    assert.equal(S.zoomAbout(base, 0, 0, 0.2, 800, 600, 1000, 700).scale, 1);
+    assert.equal(S.zoomAbout(base, 0, 0, 99, 800, 600, 1000, 700).scale, 5);
+});
+
+test('clampPan centers a frame smaller than the viewport', () => {
+    // frame 800x600 scaled 1 in a 1000x700 slide can't be dragged: stays put
+    const c = S.clampPan({scale: 1, x: 120, y: -40}, 800, 600, 1000, 700);
+    assert.equal(c.x, 0);
+    assert.equal(c.y, 0);
+});
+
+test('clampPan stops panning past scaled edges', () => {
+    // 800x600 at scale 2 -> 1600x1200 in a 1000x700 slide, origin (100,50)
+    // x range: [vpW - span - ox, -ox] = [1000-1600-100, -100] = [-700, -100]
+    const lo = S.clampPan({scale: 2, x: -2000, y: 0}, 800, 600, 1000, 700);
+    assert.equal(lo.x, -700);
+    const hi = S.clampPan({scale: 2, x: 500, y: 0}, 800, 600, 1000, 700);
+    assert.equal(hi.x, -100);
+    // y range: [700-1200-50, -50] = [-550, -50]
+    assert.equal(S.clampPan({scale: 2, x: -400, y: 999}, 800, 600, 1000, 700).y, -50);
+    assert.equal(S.clampPan({scale: 2, x: -400, y: -999}, 800, 600, 1000, 700).y, -550);
+});
+
+test('clampPan clamps inside zoomAbout', () => {
+    // zooming about a corner can't push an edge inside the viewport
+    const z = S.zoomAbout({scale: 1, x: 0, y: 0}, 100, 50, 3, 800, 600, 1000, 700);
+    const left = 100 + z.x;                     // frame's left edge in slide
+    const right = left + z.scale * 800;         // right edge
+    assert.ok(left <= 0 + 1e-9 && right >= 1000 - 1e-9);
+});
+
 test('captionStage lays captions out at page width, then scales to the frame', () => {
     // phone landscape: page slide 915 wide, viewer frame 549x412 (4:3)
     const s = S.captionStage(549, 412, 915);

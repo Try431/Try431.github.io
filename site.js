@@ -103,6 +103,41 @@
 		return !state.landscape && state.imgW > state.imgH;
 	}
 
+	// Viewer zoom: a zoomed frame is transformed translate(x,y) scale(s) with
+	// transform-origin at its top-left, inside a viewport-sized slide where its
+	// unzoomed position is centered. Coordinates below are in that slide's
+	// space, so the unzoomed frame's top-left sits at ((vpW-frameW)/2, ...).
+	var ZOOM_MAX = 5;
+
+	// constrain translate so the scaled frame never pulls an edge inside the
+	// viewport; when smaller than the viewport on an axis it stays centered
+	function clampPan(state, frameW, frameH, vpW, vpH){
+		function axis(t, size, vp){
+			var o = (vp - size) / 2;
+			var span = state.scale * size;
+			if (span <= vp){
+				return (vp - span) / 2 - o;
+			}
+			return Math.min(Math.max(t, vp - span - o), -o);
+		}
+		return {
+			scale: state.scale,
+			x: axis(state.x, frameW, vpW),
+			y: axis(state.y, frameH, vpH)
+		};
+	}
+
+	// change scale while keeping the frame point under (px, py) fixed
+	function zoomAbout(state, px, py, newScale, frameW, frameH, vpW, vpH){
+		var s = Math.min(Math.max(newScale, 1), ZOOM_MAX);
+		var ox = (vpW - frameW) / 2;
+		var oy = (vpH - frameH) / 2;
+		var fx = (px - ox - state.x) / state.scale;
+		var fy = (py - oy - state.y) / state.scale;
+		return clampPan({scale: s, x: px - ox - s * fx, y: py - oy - s * fy},
+			frameW, frameH, vpW, vpH);
+	}
+
 
 	function keyAction(key, shiftKey, viewerOpen){
 		if (viewerOpen){
@@ -174,6 +209,8 @@
 		pickResolution: pickResolution,
 		fitBox: fitBox,
 		showRotateHint: showRotateHint,
+		clampPan: clampPan,
+		zoomAbout: zoomAbout,
 		keyAction: keyAction
 	};
 }));

@@ -652,9 +652,15 @@ padding: 10px 0 20px 0;
 margin: 0;
 }
 
-/* resolution list lives inline in the drawer, toggled by the res button */
+/* resolution options sit inside the button's <li> and open as a wrapping
+   row of chips right underneath it (global.js nests it on phones) */
+body.phone #control li{
+height: auto;
+min-height: 28px;
+}
+
 body.phone #resolution{
-position: relative;
+position: static;
 width: auto;
 height: auto;
 display: none;
@@ -674,17 +680,34 @@ width: auto;
 body.phone #resolution ul{
 position: static;
 width: auto;
-padding: 0 0 0 20px;
+display: -webkit-flex;
+display: flex;
+-webkit-flex-wrap: wrap;
+flex-wrap: wrap;
+margin: 0;
+padding: 6px 0 0 15px;
 }
 
 body.phone #resolution ul li{
-height: 32px;
-line-height: 32px;
-margin-left: 10px;
+float: none;
+clear: none;
+height: auto;
+line-height: normal;
+margin: 0 8px 8px 0;
 }
 
 body.phone #resolution ul li a{
-font-size: 16px;
+display: inline-block;
+padding: 5px 12px;
+font-size: 15px;
+border: 1px solid currentColor;
+border-radius: 15px;
+}
+
+body.phone #resolution ul li.active a{
+border-bottom: none;
+background: rgba(255,255,255,0.85);
+color: #111;
 }
 
 /* viewer open: hide the menu button */
@@ -793,6 +816,14 @@ height: 100%;
 scroll-snap-type: x proximity;
 -webkit-overflow-scrolling: touch;
 scrollbar-width: none;
+/* viewer.js owns pinch/double-tap; native handling keeps only horizontal swipes */
+touch-action: pan-x;
+}
+
+/* zoomed: swiping is off, one finger pans the photo (viewer.js) */
+#viewer.zoomed .viewer-track{
+touch-action: none;
+overflow-x: hidden;
 }
 
 .viewer-track::-webkit-scrollbar{
@@ -806,11 +837,15 @@ scroll-snap-align: center;
 display: flex;
 align-items: center;
 justify-content: center;
+overflow: hidden;
 }
 
 .viewer-frame{
 position: relative;
 overflow: hidden;
+/* zoom math (Site.zoomAbout) treats the frame's top-left as the origin */
+transform-origin: 0 0;
+will-change: transform;
 }
 
 .viewer-img{
@@ -911,9 +946,9 @@ z-index: 1;
 }
 
 #bio{
-max-width: 720px;
+max-width: 780px;
 padding: 60px 40px 80px 40px;
-font-size: 15px;
+font-size: 18px;
 line-height: 1.6;
 color: #eee;
 }
@@ -945,6 +980,7 @@ margin-right: 10px;
 
 body.phone #bio{
 padding: 64px 20px 60px 28px;
+font-size: 15px;
 }
 
 /* hidden captions in the viewer don't eat clicks meant to close it */
@@ -955,4 +991,8 @@ pointer-events: none;
 
 body:not(.phone) #viewer .viewer-frame{
 cursor: zoom-out;
+}
+
+body:not(.phone) #viewer.zoomed .viewer-frame{
+cursor: move;
 }
