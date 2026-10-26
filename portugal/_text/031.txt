@@ -5,4 +5,4 @@ width: 50
 height: 26
 textcolor: #ebebe0
 ---
-Somewhat surprisingly to me, there was very, very little actual beachwalking on this hike.
+Somewhat surprisingly to me, there was very, very little actual beach walking on this hike.

@@ -5,4 +5,4 @@ width: 20
 height: 35
 textcolor: #133913
 ---
-"Is he taking a picture of a log..?"
+"Is he taking a picture of a log...?"

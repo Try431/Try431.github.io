@@ -5,4 +5,4 @@ width: 27
 height: 20
 textcolor: #e6ffff
 ---
-...but it was an absolutelty beautiful day, so I couldn't complain!
+...but it was an absolutely beautiful day, so I couldn't complain!

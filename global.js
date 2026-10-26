@@ -459,13 +459,14 @@ function activateSlide(slide){
 							if(formats.length > 0){
 								var vidstring = '<div class="progress active"><div class="bar" style="background-color: '+$(this).parent().data('textcolor')+'"></div></div>';
 								vidstring += '<video class="image" poster="' + url+'/'+set_res+'.jpg" alt="" autoplay="autoplay" muted="muted" playsinline loop="loop" preload="auto" width="'+$(this).width()+'" height="'+$(this).outerHeight()+'">';
-								
-								$.each(formats, function(i, v){
-									if(v){
-										vformat = video_formats[v];
-										var sourceurl = url+'/'+set_res+'-'+v+'.'+vformat.extension;
-										vidstring += '<source src="'+sourceurl+'" type="'+vformat.type+'" data-extension="'+(v+'.'+vformat.extension)+'"></source>';
-									}
+
+								// phones try the decoder-friendly -mobile encode first (site.js)
+								var sources = window.Site ? Site.videoSources({
+									base: url, res: set_res, imageWidth: parseInt($(this).data('imagewidth')),
+									formats: formats, phone: phoneState().phone, videoFormats: video_formats
+								}) : formats.map(function(v){ var f = video_formats[v]; return {src: url+'/'+set_res+'-'+v+'.'+f.extension, type: f.type}; });
+								$.each(sources, function(i, s){
+									vidstring += '<source src="'+s.src+'" type="'+s.type+'"></source>';
 								});
 								
 								vidstring += '</video>';
@@ -576,10 +577,27 @@ throttle = function(func, wait, options) {
 var pageVideoRatios = typeof Map !== 'undefined' ? new Map() : null;
 var pageVideosMutedForViewer = false;
 var pageVideoObserver = null;
+var pageVideoPlaying = null;
 
 function syncPageVideos(){
 	if(!pageVideoRatios){
 		return;
+	}
+	// phones decode one video at a time: only the most-visible one plays
+	var phone = phoneState().phone;
+	var winner = null;
+	if(phone && window.Site){
+		var entries = [];
+		pageVideoRatios.forEach(function(ratio, v){
+			if(v.isConnected){
+				entries.push({id: v, ratio: ratio});
+			}
+		});
+		winner = Site.pickPlayingVideo(entries, pageVideoPlaying);
+		pageVideoPlaying = winner;
+	}
+	else{
+		pageVideoPlaying = null;
 	}
 	pageVideoRatios.forEach(function(ratio, v){
 		if(!v.isConnected){
@@ -589,7 +607,7 @@ function syncPageVideos(){
 			}
 			return;
 		}
-		var shouldPlay = !pageVideosMutedForViewer && ratio >= 0.25;
+		var shouldPlay = !pageVideosMutedForViewer && (phone ? v === winner : ratio >= 0.25);
 		if(shouldPlay && v.paused){
 			v.play().catch(function(){});
 		}

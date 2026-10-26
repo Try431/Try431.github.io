@@ -5,4 +5,4 @@ width: 15
 height: 35
 textcolor: #f5f3ef
 ---
-Unfortunately, the photos I took were out-of-focus due to user error :(
+Unfortunately, the photos I took were out of focus due to user error :(

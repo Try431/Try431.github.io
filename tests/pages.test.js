@@ -37,7 +37,7 @@ test('bio page /', () => {
 
     assert.match(html, /<meta name="viewport" content="width=device-width, initial-scale=1">/);
     for (const script of ['jquery.min.js', 'nav.js', 'site.js', 'global.js']){
-        assert.ok(html.includes(`src="${script}"`) || html.includes(`src="./${script}"`),
+        assert.match(html, new RegExp(`src="\\.?/?${script.replace('.', '\\.')}(\\?v=[^"]*)?"`),
             `missing ${script}`);
     }
     assert.match(html, /<ul id="nav">\s*<\/ul>/);
@@ -63,10 +63,12 @@ for (const e of leaves(nav)){
         assert.ok(html.includes(`src="${prefix}jquery.min.js"`),
             `missing local jquery in ${e.url}`);
 
-        // script order: nav.js, site.js, viewer.js, global.js after jquery/cookie
+        // script order: nav.js, site.js, viewer.js, global.js after jquery/cookie;
+        // shared assets carry a ?v= cache-buster so stale caches can't mix
+        // old markup with new code (bump it when they change)
         for (const script of ['nav.js', 'site.js', 'viewer.js', 'global.js']){
-            assert.ok(html.includes(`src="${prefix}${script}"`),
-                `missing ${prefix}${script} in ${e.url}`);
+            assert.match(html, new RegExp(`src="${prefix.replace(/\//g, '\\/')}${script.replace('.', '\\.')}\\?v=[0-9]+"`),
+                `missing versioned ${prefix}${script} in ${e.url}`);
         }
         const order = ['nav.js', 'site.js', 'viewer.js', 'global.js'].map(s => html.indexOf(prefix + s));
         assert.ok(order.every((v, i) => i === 0 || order[i - 1] < v), `scripts out of order in ${e.url}`);

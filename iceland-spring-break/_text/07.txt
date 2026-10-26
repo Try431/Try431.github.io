@@ -4,4 +4,4 @@ left: 75
 width: 20
 height: 40
 ---
-There's a ton of locally-commissioned artwork around the streets of Reykjavík. This mural was painted by a young girl, commissioned by her neighbor.
+There's a ton of locally commissioned artwork around the streets of Reykjavík. This mural was painted by a young girl, commissioned by her neighbor.

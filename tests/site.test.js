@@ -162,6 +162,48 @@ test('clampPan clamps inside zoomAbout', () => {
     assert.ok(left <= 0 + 1e-9 && right >= 1000 - 1e-9);
 });
 
+const VF = {h264: {extension: 'mp4', type: 'video/mp4'}, vp9: {extension: 'webm', type: 'video/webm'}};
+
+test('videoSources on desktop uses min(res, imageWidth) per format', () => {
+    assert.deepEqual(S.videoSources({base: 'b/000', res: 3840, imageWidth: 1920, formats: ['h264'], phone: false, videoFormats: VF}),
+        [{src: 'b/000/1920-h264.mp4', type: 'video/mp4'}]);
+    assert.deepEqual(S.videoSources({base: 'b/000', res: 1280, imageWidth: 3840, formats: ['h264'], phone: false, videoFormats: VF}),
+        [{src: 'b/000/1280-h264.mp4', type: 'video/mp4'}]);
+    // multiple formats in order, no mobile entries on desktop
+    assert.deepEqual(S.videoSources({base: 'b/000', res: 1920, imageWidth: 1920, formats: ['h264', 'vp9'], phone: false, videoFormats: VF}).length, 2);
+});
+
+test('videoSources on phone prefers the mobile h264 file, capped', () => {
+    // default phone resolution (1280): 1280 mobile first, normal 1280 fallback
+    assert.deepEqual(S.videoSources({base: 'b/000', res: 1280, imageWidth: 1920, formats: ['h264'], phone: true, videoFormats: VF}),
+        [{src: 'b/000/1280-h264-mobile.mp4', type: 'video/mp4'},
+         {src: 'b/000/1280-h264.mp4', type: 'video/mp4'}]);
+    // picked 4K/1440p on a phone: 1920 mobile, 2560 normal fallback (1440p cap)
+    assert.deepEqual(S.videoSources({base: 'b/000', res: 3840, imageWidth: 3840, formats: ['h264'], phone: true, videoFormats: VF}),
+        [{src: 'b/000/1920-h264-mobile.mp4', type: 'video/mp4'},
+         {src: 'b/000/2560-h264.mp4', type: 'video/mp4'}]);
+    // narrow source video: capped by imageWidth on both entries
+    assert.deepEqual(S.videoSources({base: 'b/000', res: 3840, imageWidth: 1280, formats: ['h264'], phone: true, videoFormats: VF}),
+        [{src: 'b/000/1280-h264-mobile.mp4', type: 'video/mp4'},
+         {src: 'b/000/1280-h264.mp4', type: 'video/mp4'}]);
+    // other formats still listed after h264 at the capped resolution
+    const s = S.videoSources({base: 'b/000', res: 3840, imageWidth: 3840, formats: ['h264', 'vp9'], phone: true, videoFormats: VF});
+    assert.equal(s[2].src, 'b/000/2560-vp9.webm');
+});
+
+test('pickPlayingVideo returns the most-visible video above threshold', () => {
+    const vids = [{id: 'a', ratio: 0.9}, {id: 'b', ratio: 0.4}, {id: 'c', ratio: 0.1}];
+    assert.equal(S.pickPlayingVideo(vids, null), 'a');
+    // none above 0.25
+    assert.equal(S.pickPlayingVideo([{id: 'a', ratio: 0.1}], 'a'), null);
+    // keeps the current video on a near-tie (within 0.05)
+    assert.equal(S.pickPlayingVideo(vids, 'b'), 'a');          // b=0.4 vs a=0.9: not near
+    assert.equal(S.pickPlayingVideo([{id: 'a', ratio: 0.5}, {id: 'b', ratio: 0.53}], 'a'), 'a');
+    assert.equal(S.pickPlayingVideo([{id: 'a', ratio: 0.5}, {id: 'b', ratio: 0.53}], null), 'b');
+    // current video not observed this round -> picks best
+    assert.equal(S.pickPlayingVideo(vids, 'zzz'), 'a');
+});
+
 test('captionStage lays captions out at page width, then scales to the frame', () => {
     // phone landscape: page slide 915 wide, viewer frame 549x412 (4:3)
     const s = S.captionStage(549, 412, 915);

@@ -5,4 +5,4 @@ width: 32
 height: 26
 textcolor: #f9f2ec
 ---
-Finally leaving New York, enroute to Lisbon!
+Finally leaving New York, en route to Lisbon!

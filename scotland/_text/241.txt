@@ -5,4 +5,4 @@ width: 30
 height: 20
 textcolor: #ffffff
 ---
-A quick snap as I landed in Edinburgh and jogged to catch a bus to my airbnb. I was ready for a nap!
+A quick snap as I landed in Edinburgh and jogged to catch a bus to my Airbnb. I was ready for a nap!

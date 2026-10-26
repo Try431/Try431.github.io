@@ -64,13 +64,15 @@ var Viewer = (function(){
 		vid.loop = true;
 		vid.setAttribute('playsinline', '');
 		vid.poster = base + '/' + res + '.jpg';
-		formats.forEach(function(f){
-			if(!f || !video_formats[f]){
-				return;
-			}
+		// phones try the decoder-friendly -mobile encode first (site.js)
+		var sources = Site.videoSources({
+			base: base, res: res, imageWidth: parseInt($(slide).data('imagewidth')),
+			formats: formats, phone: phoneState().phone, videoFormats: video_formats
+		});
+		sources.forEach(function(s){
 			var src = document.createElement('source');
-			src.src = base + '/' + res + '-' + f + '.' + video_formats[f].extension;
-			src.type = video_formats[f].type;
+			src.src = s.src;
+			src.type = s.type;
 			vid.appendChild(src);
 		});
 		$frame.append(vid);
